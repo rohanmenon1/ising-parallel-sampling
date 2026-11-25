@@ -14,6 +14,7 @@ optionally verifies the empirical Monte Carlo sampler, and generates publication
 from __future__ import annotations
 
 import argparse
+from itertools import product
 from pathlib import Path
 import sys
 
@@ -25,13 +26,12 @@ if str(REPO_DIR) not in sys.path:
 import matplotlib.pyplot as plt
 import numpy as np
 
-from ising import exact_distribution
+from ising import conditional, exact_distribution
 from sampling import (
     approximate_schedule,
     checkerboard_schedule,
     exact_schedule,
     independent_schedule,
-    output_distribution,
     sample,
     validate_schedule,
 )
@@ -58,6 +58,48 @@ def check_distribution(probabilities: np.ndarray, atol: float = 1e-10) -> None:
         raise ValueError(f"Probabilities do not sum to 1.0: sum = {total}")
 
 
+def fast_output_distribution(schedule: list, configs: np.ndarray, P: np.ndarray) -> np.ndarray:
+    """Compute the sampler's exact output law Q efficiently using 1D Markov blankets and vectorization."""
+    n = configs.shape[1]
+    validate_schedule(schedule, n)
+    Q = np.ones(len(configs), dtype=np.float64)
+    committed_spins: set[int] = set()
+
+    for round_blocks in schedule:
+        for block in round_blocks:
+            left_neighbors = [idx for idx in committed_spins if idx < min(block)]
+            right_neighbors = [idx for idx in committed_spins if idx > max(block)]
+            L = max(left_neighbors) if left_neighbors else None
+            R = min(right_neighbors) if right_neighbors else None
+
+            assignments = list(product([-1, 1], repeat=len(block)))
+            assign_map = {a: i for i, a in enumerate(assignments)}
+            block_tuples = [tuple(row) for row in configs[:, block]]
+            block_idx = np.array([assign_map[t] for t in block_tuples], dtype=np.int32)
+
+            neighbor_spins = ([L] if L is not None else []) + ([R] if R is not None else [])
+            if not neighbor_spins:
+                probs = conditional(block, {}, configs, P)
+                Q *= probs[block_idx]
+            else:
+                n_states = list(product([-1, 1], repeat=len(neighbor_spins)))
+                table = np.zeros((len(n_states), len(assignments)), dtype=np.float64)
+                for s_i, state in enumerate(n_states):
+                    comm_dict = dict(zip(neighbor_spins, state))
+                    table[s_i] = conditional(block, comm_dict, configs, P)
+
+                state_map = {s: i for i, s in enumerate(n_states)}
+                state_tuples = [tuple(row) for row in configs[:, neighbor_spins]]
+                state_idx = np.array([state_map[t] for t in state_tuples], dtype=np.int32)
+
+                Q *= table[state_idx, block_idx]
+
+        for block in round_blocks:
+            committed_spins.update(block)
+
+    return Q
+
+
 def evaluate_schedule(
     name: str,
     schedule: list,
@@ -68,7 +110,7 @@ def evaluate_schedule(
     """Validate schedule, compute its output distribution Q, and record metrics."""
     n = configs.shape[1]
     validate_schedule(schedule, n)
-    Q = output_distribution(schedule, configs, P)
+    Q = fast_output_distribution(schedule, configs, P)
     check_distribution(Q)
     tv = tv_distance(P, Q)
     return {
@@ -110,7 +152,7 @@ def run_experiment(
     ]
     for b_name, b_sched in baseline_schedules:
         validate_schedule(b_sched, n)
-        zero_Q = output_distribution(b_sched, zero_configs, zero_P)
+        zero_Q = fast_output_distribution(b_sched, zero_configs, zero_P)
         check_distribution(zero_Q)
         np.testing.assert_allclose(zero_Q, zero_P, atol=1e-12,
                                    err_msg=f"Schedule {b_name} failed exactness check at J=0")
