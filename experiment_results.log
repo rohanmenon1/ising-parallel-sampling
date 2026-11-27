@@ -1,1142 +1,1142 @@
   n     J   k Schedule                   Spacing Rounds        TV Error
 ------------------------------------------------------------------------
- 16  0.00   1 Independent                      -      1    0.000000e+00
- 16  0.00   1 Checkerboard                     -      2    0.000000e+00
- 16  0.00   1 Recursive separator              -      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=1)          1      1    0.000000e+00
- 16  0.00   1 Approximate (spacing=2)          2      2    0.000000e+00
- 16  0.00   1 Approximate (spacing=3)          3      3    0.000000e+00
- 16  0.00   1 Approximate (spacing=4)          4      3    0.000000e+00
- 16  0.00   1 Approximate (spacing=5)          5      4    0.000000e+00
- 16  0.00   1 Approximate (spacing=6)          6      4    0.000000e+00
- 16  0.00   1 Approximate (spacing=7)          7      4    0.000000e+00
- 16  0.00   1 Approximate (spacing=8)          8      4    0.000000e+00
- 16  0.00   1 Approximate (spacing=9)          9      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=10)        10      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=11)        11      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=12)        12      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=13)        13      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=14)        14      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=15)        15      5    0.000000e+00
- 16  0.00   1 Approximate (spacing=16)        16      5    0.000000e+00
- 16  0.00   2 Independent                      -      1    0.000000e+00
- 16  0.00   2 Checkerboard                     -      2    0.000000e+00
- 16  0.00   2 Recursive separator              -      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=1)          1      1    0.000000e+00
- 16  0.00   2 Approximate (spacing=2)          2      2    0.000000e+00
- 16  0.00   2 Approximate (spacing=3)          3      2    0.000000e+00
- 16  0.00   2 Approximate (spacing=4)          4      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=5)          5      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=6)          6      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=7)          7      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=8)          8      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=9)          9      3    0.000000e+00
- 16  0.00   2 Approximate (spacing=10)        10      4    0.000000e+00
- 16  0.00   2 Approximate (spacing=11)        11      4    0.000000e+00
- 16  0.00   2 Approximate (spacing=12)        12      4    0.000000e+00
- 16  0.00   2 Approximate (spacing=13)        13      4    0.000000e+00
- 16  0.00   2 Approximate (spacing=14)        14      4    0.000000e+00
- 16  0.00   2 Approximate (spacing=15)        15      4    0.000000e+00
- 16  0.00   2 Approximate (spacing=16)        16      4    0.000000e+00
- 16  0.00   3 Independent                      -      1    0.000000e+00
- 16  0.00   3 Checkerboard                     -      2    0.000000e+00
- 16  0.00   3 Recursive separator              -      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=1)          1      1    0.000000e+00
- 16  0.00   3 Approximate (spacing=2)          2      2    0.000000e+00
- 16  0.00   3 Approximate (spacing=3)          3      2    0.000000e+00
- 16  0.00   3 Approximate (spacing=4)          4      2    0.000000e+00
- 16  0.00   3 Approximate (spacing=5)          5      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=6)          6      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=7)          7      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=8)          8      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=9)          9      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=10)        10      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=11)        11      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=12)        12      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=13)        13      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=14)        14      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=15)        15      3    0.000000e+00
- 16  0.00   3 Approximate (spacing=16)        16      3    0.000000e+00
- 16  0.00   4 Independent                      -      1    0.000000e+00
- 16  0.00   4 Checkerboard                     -      2    0.000000e+00
- 16  0.00   4 Recursive separator              -      2    0.000000e+00
- 16  0.00   4 Approximate (spacing=1)          1      1    0.000000e+00
- 16  0.00   4 Approximate (spacing=2)          2      2    0.000000e+00
- 16  0.00   4 Approximate (spacing=3)          3      2    0.000000e+00
- 16  0.00   4 Approximate (spacing=4)          4      2    0.000000e+00
- 16  0.00   4 Approximate (spacing=5)          5      2    0.000000e+00
- 16  0.00   4 Approximate (spacing=6)          6      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=7)          7      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=8)          8      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=9)          9      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=10)        10      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=11)        11      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=12)        12      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=13)        13      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=14)        14      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=15)        15      3    0.000000e+00
- 16  0.00   4 Approximate (spacing=16)        16      3    0.000000e+00
- 16  0.00   6 Independent                      -      1    0.000000e+00
- 16  0.00   6 Checkerboard                     -      2    0.000000e+00
- 16  0.00   6 Recursive separator              -      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=1)          1      1    0.000000e+00
- 16  0.00   6 Approximate (spacing=2)          2      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=3)          3      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=4)          4      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=5)          5      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=6)          6      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=7)          7      2    0.000000e+00
- 16  0.00   6 Approximate (spacing=8)          8      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=9)          9      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=10)        10      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=11)        11      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=12)        12      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=13)        13      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=14)        14      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=15)        15      3    0.000000e+00
- 16  0.00   6 Approximate (spacing=16)        16      3    0.000000e+00
- 16  0.00   8 Independent                      -      1    0.000000e+00
- 16  0.00   8 Checkerboard                     -      2    0.000000e+00
- 16  0.00   8 Recursive separator              -      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=1)          1      1    0.000000e+00
- 16  0.00   8 Approximate (spacing=2)          2      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=3)          3      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=4)          4      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=5)          5      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=6)          6      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=7)          7      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=8)          8      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=9)          9      2    0.000000e+00
- 16  0.00   8 Approximate (spacing=10)        10      3    0.000000e+00
- 16  0.00   8 Approximate (spacing=11)        11      3    0.000000e+00
- 16  0.00   8 Approximate (spacing=12)        12      3    0.000000e+00
- 16  0.00   8 Approximate (spacing=13)        13      3    0.000000e+00
- 16  0.00   8 Approximate (spacing=14)        14      3    0.000000e+00
- 16  0.00   8 Approximate (spacing=15)        15      3    0.000000e+00
- 16  0.00   8 Approximate (spacing=16)        16      3    0.000000e+00
- 16  0.10   1 Independent                      -      1    1.530177e-01
- 16  0.10   1 Checkerboard                     -      2    1.086392e-02
- 16  0.10   1 Recursive separator              -      5    2.024735e-16
- 16  0.10   1 Approximate (spacing=1)          1      1    1.530177e-01
- 16  0.10   1 Approximate (spacing=2)          2      2    1.086392e-02
- 16  0.10   1 Approximate (spacing=3)          3      3    7.429220e-04
- 16  0.10   1 Approximate (spacing=4)          4      3    7.400893e-05
- 16  0.10   1 Approximate (spacing=5)          5      4    4.917572e-06
- 16  0.10   1 Approximate (spacing=6)          6      4    4.901221e-07
- 16  0.10   1 Approximate (spacing=7)          7      4    4.884949e-08
- 16  0.10   1 Approximate (spacing=8)          8      4    4.868731e-09
- 16  0.10   1 Approximate (spacing=9)          9      5    2.293213e-16
- 16  0.10   1 Approximate (spacing=10)        10      5    2.359677e-16
- 16  0.10   1 Approximate (spacing=11)        11      5    1.843982e-16
- 16  0.10   1 Approximate (spacing=12)        12      5    1.783176e-16
- 16  0.10   1 Approximate (spacing=13)        13      5    1.565755e-16
- 16  0.10   1 Approximate (spacing=14)        14      5    1.773376e-16
- 16  0.10   1 Approximate (spacing=15)        15      5    2.358093e-16
- 16  0.10   1 Approximate (spacing=16)        16      5    1.511418e-16
- 16  0.10   2 Independent                      -      1    1.079354e-01
- 16  0.10   2 Checkerboard                     -      2    1.086392e-02
- 16  0.10   2 Recursive separator              -      3    1.436282e-16
- 16  0.10   2 Approximate (spacing=1)          1      1    1.079354e-01
- 16  0.10   2 Approximate (spacing=2)          2      2    7.450037e-03
- 16  0.10   2 Approximate (spacing=3)          3      2    4.952815e-04
- 16  0.10   2 Approximate (spacing=4)          4      3    4.933929e-05
- 16  0.10   2 Approximate (spacing=5)          5      3    4.917548e-06
- 16  0.10   2 Approximate (spacing=6)          6      3    1.680047e-16
- 16  0.10   2 Approximate (spacing=7)          7      3    1.432007e-16
- 16  0.10   2 Approximate (spacing=8)          8      3    1.346153e-16
- 16  0.10   2 Approximate (spacing=9)          9      3    1.408387e-16
- 16  0.10   2 Approximate (spacing=10)        10      4    1.759014e-16
- 16  0.10   2 Approximate (spacing=11)        11      4    1.676865e-16
- 16  0.10   2 Approximate (spacing=12)        12      4    1.677170e-16
- 16  0.10   2 Approximate (spacing=13)        13      4    1.403546e-16
- 16  0.10   2 Approximate (spacing=14)        14      4    1.344085e-16
- 16  0.10   2 Approximate (spacing=15)        15      4    1.727782e-16
- 16  0.10   2 Approximate (spacing=16)        16      4    1.429463e-16
- 16  0.10   3 Independent                      -      1    9.282179e-02
- 16  0.10   3 Checkerboard                     -      2    1.086392e-02
- 16  0.10   3 Recursive separator              -      3    1.056034e-16
- 16  0.10   3 Approximate (spacing=1)          1      1    9.282179e-02
- 16  0.10   3 Approximate (spacing=2)          2      2    4.991524e-03
- 16  0.10   3 Approximate (spacing=3)          3      2    4.950364e-04
- 16  0.10   3 Approximate (spacing=4)          4      2    4.933929e-05
- 16  0.10   3 Approximate (spacing=5)          5      3    1.744198e-16
- 16  0.10   3 Approximate (spacing=6)          6      3    1.302565e-16
- 16  0.10   3 Approximate (spacing=7)          7      3    1.222067e-16
- 16  0.10   3 Approximate (spacing=8)          8      3    1.352309e-16
- 16  0.10   3 Approximate (spacing=9)          9      3    1.666107e-16
- 16  0.10   3 Approximate (spacing=10)        10      3    1.554333e-16
- 16  0.10   3 Approximate (spacing=11)        11      3    1.540088e-16
- 16  0.10   3 Approximate (spacing=12)        12      3    1.423509e-16
- 16  0.10   3 Approximate (spacing=13)        13      3    1.336656e-16
- 16  0.10   3 Approximate (spacing=14)        14      3    1.549664e-16
- 16  0.10   3 Approximate (spacing=15)        15      3    1.319455e-16
- 16  0.10   3 Approximate (spacing=16)        16      3    1.222624e-16
- 16  0.10   4 Independent                      -      1    7.450348e-02
- 16  0.10   4 Checkerboard                     -      2    1.086392e-02
- 16  0.10   4 Recursive separator              -      2    1.347543e-16
- 16  0.10   4 Approximate (spacing=1)          1      1    7.450348e-02
- 16  0.10   4 Approximate (spacing=2)          2      2    4.966855e-03
- 16  0.10   4 Approximate (spacing=3)          3      2    4.950364e-04
- 16  0.10   4 Approximate (spacing=4)          4      2    1.222624e-16
- 16  0.10   4 Approximate (spacing=5)          5      2    1.123204e-16
- 16  0.10   4 Approximate (spacing=6)          6      3    1.275168e-16
- 16  0.10   4 Approximate (spacing=7)          7      3    1.222377e-16
- 16  0.10   4 Approximate (spacing=8)          8      3    1.296375e-16
- 16  0.10   4 Approximate (spacing=9)          9      3    1.569054e-16
- 16  0.10   4 Approximate (spacing=10)        10      3    1.325380e-16
- 16  0.10   4 Approximate (spacing=11)        11      3    1.554606e-16
- 16  0.10   4 Approximate (spacing=12)        12      3    1.297604e-16
- 16  0.10   4 Approximate (spacing=13)        13      3    1.284398e-16
- 16  0.10   4 Approximate (spacing=14)        14      3    1.339182e-16
- 16  0.10   4 Approximate (spacing=15)        15      3    1.302845e-16
- 16  0.10   4 Approximate (spacing=16)        16      3    1.378527e-16
- 16  0.10   6 Independent                      -      1    5.231742e-02
- 16  0.10   6 Checkerboard                     -      2    1.086392e-02
- 16  0.10   6 Recursive separator              -      2    1.447372e-16
- 16  0.10   6 Approximate (spacing=1)          1      1    5.231742e-02
- 16  0.10   6 Approximate (spacing=2)          2      2    4.966855e-03
- 16  0.10   6 Approximate (spacing=3)          3      2    1.367115e-16
- 16  0.10   6 Approximate (spacing=4)          4      2    1.222624e-16
- 16  0.10   6 Approximate (spacing=5)          5      2    1.123204e-16
- 16  0.10   6 Approximate (spacing=6)          6      2    1.160221e-16
- 16  0.10   6 Approximate (spacing=7)          7      2    8.987951e-17
- 16  0.10   6 Approximate (spacing=8)          8      3    1.194848e-16
- 16  0.10   6 Approximate (spacing=9)          9      3    9.408058e-17
- 16  0.10   6 Approximate (spacing=10)        10      3    1.354425e-16
- 16  0.10   6 Approximate (spacing=11)        11      3    1.417893e-16
- 16  0.10   6 Approximate (spacing=12)        12      3    1.212257e-16
- 16  0.10   6 Approximate (spacing=13)        13      3    1.216754e-16
- 16  0.10   6 Approximate (spacing=14)        14      3    1.265084e-16
- 16  0.10   6 Approximate (spacing=15)        15      3    1.305881e-16
- 16  0.10   6 Approximate (spacing=16)        16      3    1.295922e-16
- 16  0.10   8 Independent                      -      1    4.983400e-02
- 16  0.10   8 Checkerboard                     -      2    1.086392e-02
- 16  0.10   8 Recursive separator              -      2    1.424100e-16
- 16  0.10   8 Approximate (spacing=1)          1      1    4.983400e-02
- 16  0.10   8 Approximate (spacing=2)          2      2    1.386572e-16
- 16  0.10   8 Approximate (spacing=3)          3      2    1.367115e-16
- 16  0.10   8 Approximate (spacing=4)          4      2    1.222624e-16
- 16  0.10   8 Approximate (spacing=5)          5      2    1.123204e-16
- 16  0.10   8 Approximate (spacing=6)          6      2    1.160221e-16
- 16  0.10   8 Approximate (spacing=7)          7      2    8.987951e-17
- 16  0.10   8 Approximate (spacing=8)          8      2    9.340317e-17
- 16  0.10   8 Approximate (spacing=9)          9      2    9.794898e-17
- 16  0.10   8 Approximate (spacing=10)        10      3    1.290885e-16
- 16  0.10   8 Approximate (spacing=11)        11      3    1.363816e-16
- 16  0.10   8 Approximate (spacing=12)        12      3    1.157786e-16
- 16  0.10   8 Approximate (spacing=13)        13      3    1.211575e-16
- 16  0.10   8 Approximate (spacing=14)        14      3    1.221451e-16
- 16  0.10   8 Approximate (spacing=15)        15      3    1.552935e-16
- 16  0.10   8 Approximate (spacing=16)        16      3    1.291575e-16
- 16  0.25   1 Independent                      -      1    3.741658e-01
- 16  0.25   1 Checkerboard                     -      2    6.537319e-02
- 16  0.25   1 Recursive separator              -      5    1.712030e-16
- 16  0.25   1 Approximate (spacing=1)          1      1    3.741658e-01
- 16  0.25   1 Approximate (spacing=2)          2      2    6.537319e-02
- 16  0.25   1 Approximate (spacing=3)          3      3    1.109875e-02
- 16  0.25   1 Approximate (spacing=4)          4      3    2.698652e-03
- 16  0.25   1 Approximate (spacing=5)          5      4    4.408296e-04
- 16  0.25   1 Approximate (spacing=6)          6      4    1.079198e-04
- 16  0.25   1 Approximate (spacing=7)          7      4    2.643158e-05
- 16  0.25   1 Approximate (spacing=8)          8      4    6.473588e-06
- 16  0.25   1 Approximate (spacing=9)          9      5    1.804073e-16
- 16  0.25   1 Approximate (spacing=10)        10      5    1.726346e-16
- 16  0.25   1 Approximate (spacing=11)        11      5    1.766920e-16
- 16  0.25   1 Approximate (spacing=12)        12      5    2.012371e-16
- 16  0.25   1 Approximate (spacing=13)        13      5    1.749589e-16
- 16  0.25   1 Approximate (spacing=14)        14      5    1.854042e-16
- 16  0.25   1 Approximate (spacing=15)        15      5    1.610235e-16
- 16  0.25   1 Approximate (spacing=16)        16      5    1.708485e-16
- 16  0.25   2 Independent                      -      1    2.523811e-01
- 16  0.25   2 Checkerboard                     -      2    6.537319e-02
- 16  0.25   2 Recursive separator              -      3    1.590293e-16
- 16  0.25   2 Approximate (spacing=1)          1      1    2.523811e-01
- 16  0.25   2 Approximate (spacing=2)          2      2    4.493490e-02
- 16  0.25   2 Approximate (spacing=3)          3      2    7.399701e-03
- 16  0.25   2 Approximate (spacing=4)          4      3    1.799109e-03
- 16  0.25   2 Approximate (spacing=5)          5      3    4.406354e-04
- 16  0.25   2 Approximate (spacing=6)          6      3    2.034792e-16
- 16  0.25   2 Approximate (spacing=7)          7      3    1.821144e-16
- 16  0.25   2 Approximate (spacing=8)          8      3    1.646083e-16
- 16  0.25   2 Approximate (spacing=9)          9      3    1.323643e-16
- 16  0.25   2 Approximate (spacing=10)        10      4    1.962206e-16
- 16  0.25   2 Approximate (spacing=11)        11      4    1.452671e-16
- 16  0.25   2 Approximate (spacing=12)        12      4    1.671356e-16
- 16  0.25   2 Approximate (spacing=13)        13      4    1.580274e-16
- 16  0.25   2 Approximate (spacing=14)        14      4    2.566294e-16
- 16  0.25   2 Approximate (spacing=15)        15      4    1.449413e-16
- 16  0.25   2 Approximate (spacing=16)        16      4    2.005016e-16
- 16  0.25   3 Independent                      -      1    2.205943e-01
- 16  0.25   3 Checkerboard                     -      2    6.537319e-02
- 16  0.25   3 Recursive separator              -      3    1.359073e-16
- 16  0.25   3 Approximate (spacing=1)          1      1    2.205943e-01
- 16  0.25   3 Approximate (spacing=2)          2      2    3.089213e-02
- 16  0.25   3 Approximate (spacing=3)          3      2    7.345741e-03
- 16  0.25   3 Approximate (spacing=4)          4      2    1.799109e-03
- 16  0.25   3 Approximate (spacing=5)          5      3    1.526286e-16
- 16  0.25   3 Approximate (spacing=6)          6      3    1.567669e-16
- 16  0.25   3 Approximate (spacing=7)          7      3    1.501192e-16
- 16  0.25   3 Approximate (spacing=8)          8      3    1.333880e-16
- 16  0.25   3 Approximate (spacing=9)          9      3    1.623400e-16
- 16  0.25   3 Approximate (spacing=10)        10      3    1.284713e-16
- 16  0.25   3 Approximate (spacing=11)        11      3    1.285705e-16
- 16  0.25   3 Approximate (spacing=12)        12      3    1.726133e-16
- 16  0.25   3 Approximate (spacing=13)        13      3    1.625838e-16
- 16  0.25   3 Approximate (spacing=14)        14      3    8.229586e-17
- 16  0.25   3 Approximate (spacing=15)        15      3    1.234092e-16
- 16  0.25   3 Approximate (spacing=16)        16      3    1.434033e-16
- 16  0.25   4 Independent                      -      1    1.800161e-01
- 16  0.25   4 Checkerboard                     -      2    6.537319e-02
- 16  0.25   4 Recursive separator              -      2    1.196221e-16
- 16  0.25   4 Approximate (spacing=1)          1      1    1.800161e-01
- 16  0.25   4 Approximate (spacing=2)          2      2    2.999258e-02
- 16  0.25   4 Approximate (spacing=3)          3      2    7.345741e-03
- 16  0.25   4 Approximate (spacing=4)          4      2    1.353997e-16
- 16  0.25   4 Approximate (spacing=5)          5      2    1.325301e-16
- 16  0.25   4 Approximate (spacing=6)          6      3    1.205477e-16
- 16  0.25   4 Approximate (spacing=7)          7      3    1.094401e-16
- 16  0.25   4 Approximate (spacing=8)          8      3    1.255094e-16
- 16  0.25   4 Approximate (spacing=9)          9      3    1.869281e-16
- 16  0.25   4 Approximate (spacing=10)        10      3    1.127188e-16
- 16  0.25   4 Approximate (spacing=11)        11      3    1.166608e-16
- 16  0.25   4 Approximate (spacing=12)        12      3    1.140080e-16
- 16  0.25   4 Approximate (spacing=13)        13      3    1.193942e-16
- 16  0.25   4 Approximate (spacing=14)        14      3    1.264299e-16
- 16  0.25   4 Approximate (spacing=15)        15      3    2.192579e-16
- 16  0.25   4 Approximate (spacing=16)        16      3    2.601096e-16
- 16  0.25   6 Independent                      -      1    1.374556e-01
- 16  0.25   6 Checkerboard                     -      2    6.537319e-02
- 16  0.25   6 Recursive separator              -      2    1.653915e-16
- 16  0.25   6 Approximate (spacing=1)          1      1    1.374556e-01
- 16  0.25   6 Approximate (spacing=2)          2      2    2.999258e-02
- 16  0.25   6 Approximate (spacing=3)          3      2    2.052815e-16
- 16  0.25   6 Approximate (spacing=4)          4      2    1.353997e-16
- 16  0.25   6 Approximate (spacing=5)          5      2    1.325301e-16
- 16  0.25   6 Approximate (spacing=6)          6      2    1.015250e-16
- 16  0.25   6 Approximate (spacing=7)          7      2    7.359354e-17
- 16  0.25   6 Approximate (spacing=8)          8      3    8.197352e-17
- 16  0.25   6 Approximate (spacing=9)          9      3    1.313074e-16
- 16  0.25   6 Approximate (spacing=10)        10      3    1.030663e-16
- 16  0.25   6 Approximate (spacing=11)        11      3    1.256083e-16
- 16  0.25   6 Approximate (spacing=12)        12      3    1.241305e-16
- 16  0.25   6 Approximate (spacing=13)        13      3    1.384502e-16
- 16  0.25   6 Approximate (spacing=14)        14      3    1.175031e-16
- 16  0.25   6 Approximate (spacing=15)        15      3    1.095217e-16
- 16  0.25   6 Approximate (spacing=16)        16      3    1.555111e-16
- 16  0.25   8 Independent                      -      1    1.224593e-01
- 16  0.25   8 Checkerboard                     -      2    6.537319e-02
- 16  0.25   8 Recursive separator              -      2    1.369431e-16
- 16  0.25   8 Approximate (spacing=1)          1      1    1.224593e-01
- 16  0.25   8 Approximate (spacing=2)          2      2    1.287289e-16
- 16  0.25   8 Approximate (spacing=3)          3      2    2.052815e-16
- 16  0.25   8 Approximate (spacing=4)          4      2    1.353997e-16
- 16  0.25   8 Approximate (spacing=5)          5      2    1.325301e-16
- 16  0.25   8 Approximate (spacing=6)          6      2    1.015250e-16
- 16  0.25   8 Approximate (spacing=7)          7      2    7.359354e-17
- 16  0.25   8 Approximate (spacing=8)          8      2    1.062648e-16
- 16  0.25   8 Approximate (spacing=9)          9      2    7.503604e-17
- 16  0.25   8 Approximate (spacing=10)        10      3    9.289488e-17
- 16  0.25   8 Approximate (spacing=11)        11      3    1.061016e-16
- 16  0.25   8 Approximate (spacing=12)        12      3    1.234970e-16
- 16  0.25   8 Approximate (spacing=13)        13      3    1.066939e-16
- 16  0.25   8 Approximate (spacing=14)        14      3    1.584496e-16
- 16  0.25   8 Approximate (spacing=15)        15      3    1.230610e-16
- 16  0.25   8 Approximate (spacing=16)        16      3    1.717353e-16
- 16  0.50   1 Independent                      -      1    6.559786e-01
- 16  0.50   1 Checkerboard                     -      2    2.232091e-01
- 16  0.50   1 Recursive separator              -      5    1.240787e-16
- 16  0.50   1 Approximate (spacing=1)          1      1    6.559786e-01
- 16  0.50   1 Approximate (spacing=2)          2      2    2.232091e-01
- 16  0.50   1 Approximate (spacing=3)          3      3    7.740868e-02
- 16  0.50   1 Approximate (spacing=4)          4      3    3.417972e-02
- 16  0.50   1 Approximate (spacing=5)          5      4    1.064836e-02
- 16  0.50   1 Approximate (spacing=6)          6      4    4.869480e-03
- 16  0.50   1 Approximate (spacing=7)          7      4    2.250270e-03
- 16  0.50   1 Approximate (spacing=8)          8      4    1.039888e-03
- 16  0.50   1 Approximate (spacing=9)          9      5    1.428834e-16
- 16  0.50   1 Approximate (spacing=10)        10      5    1.090221e-16
- 16  0.50   1 Approximate (spacing=11)        11      5    1.972983e-16
- 16  0.50   1 Approximate (spacing=12)        12      5    1.531399e-16
- 16  0.50   1 Approximate (spacing=13)        13      5    1.510062e-16
- 16  0.50   1 Approximate (spacing=14)        14      5    1.330948e-16
- 16  0.50   1 Approximate (spacing=15)        15      5    1.558976e-16
- 16  0.50   1 Approximate (spacing=16)        16      5    1.661849e-16
- 16  0.50   2 Independent                      -      1    4.895984e-01
- 16  0.50   2 Checkerboard                     -      2    2.232091e-01
- 16  0.50   2 Recursive separator              -      3    1.324899e-16
- 16  0.50   2 Approximate (spacing=1)          1      1    4.895984e-01
- 16  0.50   2 Approximate (spacing=2)          2      2    1.577295e-01
- 16  0.50   2 Approximate (spacing=3)          3      2    5.177782e-02
- 16  0.50   2 Approximate (spacing=4)          4      3    2.280229e-02
- 16  0.50   2 Approximate (spacing=5)          5      3    1.053733e-02
- 16  0.50   2 Approximate (spacing=6)          6      3    1.101302e-16
- 16  0.50   2 Approximate (spacing=7)          7      3    1.426542e-16
- 16  0.50   2 Approximate (spacing=8)          8      3    2.089750e-16
- 16  0.50   2 Approximate (spacing=9)          9      3    1.857320e-16
- 16  0.50   2 Approximate (spacing=10)        10      4    1.387930e-16
- 16  0.50   2 Approximate (spacing=11)        11      4    1.338698e-16
- 16  0.50   2 Approximate (spacing=12)        12      4    9.632037e-17
- 16  0.50   2 Approximate (spacing=13)        13      4    1.309640e-16
- 16  0.50   2 Approximate (spacing=14)        14      4    1.767197e-16
- 16  0.50   2 Approximate (spacing=15)        15      4    1.240833e-16
- 16  0.50   2 Approximate (spacing=16)        16      4    1.872036e-16
- 16  0.50   3 Independent                      -      1    4.054076e-01
- 16  0.50   3 Checkerboard                     -      2    2.232091e-01
- 16  0.50   3 Recursive separator              -      3    1.088651e-16
- 16  0.50   3 Approximate (spacing=1)          1      1    4.054076e-01
- 16  0.50   3 Approximate (spacing=2)          2      2    1.181773e-01
- 16  0.50   3 Approximate (spacing=3)          3      2    4.934308e-02
- 16  0.50   3 Approximate (spacing=4)          4      2    2.280229e-02
- 16  0.50   3 Approximate (spacing=5)          5      3    9.662576e-17
- 16  0.50   3 Approximate (spacing=6)          6      3    1.010836e-16
- 16  0.50   3 Approximate (spacing=7)          7      3    1.417003e-16
- 16  0.50   3 Approximate (spacing=8)          8      3    1.651753e-16
- 16  0.50   3 Approximate (spacing=9)          9      3    1.456241e-16
- 16  0.50   3 Approximate (spacing=10)        10      3    9.946645e-17
- 16  0.50   3 Approximate (spacing=11)        11      3    1.915078e-16
- 16  0.50   3 Approximate (spacing=12)        12      3    1.372783e-16
- 16  0.50   3 Approximate (spacing=13)        13      3    1.183733e-16
- 16  0.50   3 Approximate (spacing=14)        14      3    1.794458e-16
- 16  0.50   3 Approximate (spacing=15)        15      3    9.008334e-17
- 16  0.50   3 Approximate (spacing=16)        16      3    1.004350e-16
- 16  0.50   4 Independent                      -      1    3.219163e-01
- 16  0.50   4 Checkerboard                     -      2    2.232091e-01
- 16  0.50   4 Recursive separator              -      2    1.629575e-16
- 16  0.50   4 Approximate (spacing=1)          1      1    3.219163e-01
- 16  0.50   4 Approximate (spacing=2)          2      2    1.067761e-01
- 16  0.50   4 Approximate (spacing=3)          3      2    4.934308e-02
- 16  0.50   4 Approximate (spacing=4)          4      2    1.004350e-16
- 16  0.50   4 Approximate (spacing=5)          5      2    7.886075e-17
- 16  0.50   4 Approximate (spacing=6)          6      3    8.033365e-17
- 16  0.50   4 Approximate (spacing=7)          7      3    1.811243e-16
- 16  0.50   4 Approximate (spacing=8)          8      3    1.872297e-16
- 16  0.50   4 Approximate (spacing=9)          9      3    8.054963e-17
- 16  0.50   4 Approximate (spacing=10)        10      3    1.473040e-16
- 16  0.50   4 Approximate (spacing=11)        11      3    9.813047e-17
- 16  0.50   4 Approximate (spacing=12)        12      3    1.325762e-16
- 16  0.50   4 Approximate (spacing=13)        13      3    2.162639e-16
- 16  0.50   4 Approximate (spacing=14)        14      3    1.720115e-16
- 16  0.50   4 Approximate (spacing=15)        15      3    1.835979e-16
- 16  0.50   4 Approximate (spacing=16)        16      3    1.393314e-16
- 16  0.50   6 Independent                      -      1    2.844466e-01
- 16  0.50   6 Checkerboard                     -      2    2.232091e-01
- 16  0.50   6 Recursive separator              -      2    1.678825e-16
- 16  0.50   6 Approximate (spacing=1)          1      1    2.844466e-01
- 16  0.50   6 Approximate (spacing=2)          2      2    1.067761e-01
- 16  0.50   6 Approximate (spacing=3)          3      2    1.811340e-16
- 16  0.50   6 Approximate (spacing=4)          4      2    1.004350e-16
- 16  0.50   6 Approximate (spacing=5)          5      2    7.886075e-17
- 16  0.50   6 Approximate (spacing=6)          6      2    8.661953e-17
- 16  0.50   6 Approximate (spacing=7)          7      2    1.138737e-16
- 16  0.50   6 Approximate (spacing=8)          8      3    8.120640e-17
- 16  0.50   6 Approximate (spacing=9)          9      3    7.474198e-17
- 16  0.50   6 Approximate (spacing=10)        10      3    5.941632e-17
- 16  0.50   6 Approximate (spacing=11)        11      3    1.190644e-16
- 16  0.50   6 Approximate (spacing=12)        12      3    8.985291e-17
- 16  0.50   6 Approximate (spacing=13)        13      3    1.368404e-16
- 16  0.50   6 Approximate (spacing=14)        14      3    1.314381e-16
- 16  0.50   6 Approximate (spacing=15)        15      3    1.148068e-16
- 16  0.50   6 Approximate (spacing=16)        16      3    1.614919e-16
- 16  0.50   8 Independent                      -      1    2.310586e-01
- 16  0.50   8 Checkerboard                     -      2    2.232091e-01
- 16  0.50   8 Recursive separator              -      2    1.468793e-16
- 16  0.50   8 Approximate (spacing=1)          1      1    2.310586e-01
- 16  0.50   8 Approximate (spacing=2)          2      2    1.577215e-16
- 16  0.50   8 Approximate (spacing=3)          3      2    1.811340e-16
- 16  0.50   8 Approximate (spacing=4)          4      2    1.004350e-16
- 16  0.50   8 Approximate (spacing=5)          5      2    7.886075e-17
- 16  0.50   8 Approximate (spacing=6)          6      2    8.661953e-17
- 16  0.50   8 Approximate (spacing=7)          7      2    1.138737e-16
- 16  0.50   8 Approximate (spacing=8)          8      2    5.824943e-17
- 16  0.50   8 Approximate (spacing=9)          9      2    4.292535e-17
- 16  0.50   8 Approximate (spacing=10)        10      3    5.445619e-17
- 16  0.50   8 Approximate (spacing=11)        11      3    1.194611e-16
- 16  0.50   8 Approximate (spacing=12)        12      3    7.465896e-17
- 16  0.50   8 Approximate (spacing=13)        13      3    1.012398e-16
- 16  0.50   8 Approximate (spacing=14)        14      3    1.265278e-16
- 16  0.50   8 Approximate (spacing=15)        15      3    1.275391e-16
- 16  0.50   8 Approximate (spacing=16)        16      3    1.493182e-16
- 16  0.75   1 Independent                      -      1    8.187529e-01
- 16  0.75   1 Checkerboard                     -      2    4.243771e-01
- 16  0.75   1 Recursive separator              -      5    1.581288e-16
- 16  0.75   1 Approximate (spacing=1)          1      1    8.187529e-01
- 16  0.75   1 Approximate (spacing=2)          2      2    4.243771e-01
- 16  0.75   1 Approximate (spacing=3)          3      3    2.117772e-01
- 16  0.75   1 Approximate (spacing=4)          4      3    1.209797e-01
- 16  0.75   1 Approximate (spacing=5)          5      4    5.435416e-02
- 16  0.75   1 Approximate (spacing=6)          6      4    3.282642e-02
- 16  0.75   1 Approximate (spacing=7)          7      4    2.084967e-02
- 16  0.75   1 Approximate (spacing=8)          8      4    1.324264e-02
- 16  0.75   1 Approximate (spacing=9)          9      5    2.284823e-16
- 16  0.75   1 Approximate (spacing=10)        10      5    1.925243e-16
- 16  0.75   1 Approximate (spacing=11)        11      5    3.874376e-16
- 16  0.75   1 Approximate (spacing=12)        12      5    1.387201e-16
- 16  0.75   1 Approximate (spacing=13)        13      5    2.260183e-16
- 16  0.75   1 Approximate (spacing=14)        14      5    2.768869e-16
- 16  0.75   1 Approximate (spacing=15)        15      5    2.005718e-16
- 16  0.75   1 Approximate (spacing=16)        16      5    1.575289e-16
- 16  0.75   2 Independent                      -      1    6.542639e-01
- 16  0.75   2 Checkerboard                     -      2    4.243771e-01
- 16  0.75   2 Recursive separator              -      3    2.971644e-16
- 16  0.75   2 Approximate (spacing=1)          1      1    6.542639e-01
- 16  0.75   2 Approximate (spacing=2)          2      2    2.861474e-01
- 16  0.75   2 Approximate (spacing=3)          3      2    1.445273e-01
- 16  0.75   2 Approximate (spacing=4)          4      3    8.137151e-02
- 16  0.75   2 Approximate (spacing=5)          5      3    5.168303e-02
- 16  0.75   2 Approximate (spacing=6)          6      3    1.776262e-16
- 16  0.75   2 Approximate (spacing=7)          7      3    2.908333e-16
- 16  0.75   2 Approximate (spacing=8)          8      3    2.568719e-16
- 16  0.75   2 Approximate (spacing=9)          9      3    2.433185e-16
- 16  0.75   2 Approximate (spacing=10)        10      4    1.196660e-16
- 16  0.75   2 Approximate (spacing=11)        11      4    2.254567e-16
- 16  0.75   2 Approximate (spacing=12)        12      4    1.482763e-16
- 16  0.75   2 Approximate (spacing=13)        13      4    1.877939e-16
- 16  0.75   2 Approximate (spacing=14)        14      4    2.363988e-16
- 16  0.75   2 Approximate (spacing=15)        15      4    2.107464e-16
- 16  0.75   2 Approximate (spacing=16)        16      4    3.142520e-16
- 16  0.75   3 Independent                      -      1    5.853240e-01
- 16  0.75   3 Checkerboard                     -      2    4.243771e-01
- 16  0.75   3 Recursive separator              -      3    1.393267e-16
- 16  0.75   3 Approximate (spacing=1)          1      1    5.853240e-01
- 16  0.75   3 Approximate (spacing=2)          2      2    2.423928e-01
- 16  0.75   3 Approximate (spacing=3)          3      2    1.281141e-01
- 16  0.75   3 Approximate (spacing=4)          4      2    8.137151e-02
- 16  0.75   3 Approximate (spacing=5)          5      3    1.961866e-16
- 16  0.75   3 Approximate (spacing=6)          6      3    1.362802e-16
- 16  0.75   3 Approximate (spacing=7)          7      3    2.263924e-16
- 16  0.75   3 Approximate (spacing=8)          8      3    2.094727e-16
- 16  0.75   3 Approximate (spacing=9)          9      3    2.546708e-16
- 16  0.75   3 Approximate (spacing=10)        10      3    1.830504e-16
- 16  0.75   3 Approximate (spacing=11)        11      3    2.387691e-16
- 16  0.75   3 Approximate (spacing=12)        12      3    1.257822e-16
- 16  0.75   3 Approximate (spacing=13)        13      3    1.921720e-16
- 16  0.75   3 Approximate (spacing=14)        14      3    1.861047e-16
- 16  0.75   3 Approximate (spacing=15)        15      3    1.400876e-16
- 16  0.75   3 Approximate (spacing=16)        16      3    2.084396e-16
- 16  0.75   4 Independent                      -      1    4.214897e-01
- 16  0.75   4 Checkerboard                     -      2    4.243771e-01
- 16  0.75   4 Recursive separator              -      2    2.294847e-16
- 16  0.75   4 Approximate (spacing=1)          1      1    4.214897e-01
- 16  0.75   4 Approximate (spacing=2)          2      2    2.017071e-01
- 16  0.75   4 Approximate (spacing=3)          3      2    1.281141e-01
- 16  0.75   4 Approximate (spacing=4)          4      2    2.084396e-16
- 16  0.75   4 Approximate (spacing=5)          5      2    2.104683e-16
- 16  0.75   4 Approximate (spacing=6)          6      3    1.117704e-16
- 16  0.75   4 Approximate (spacing=7)          7      3    2.377805e-16
- 16  0.75   4 Approximate (spacing=8)          8      3    2.376101e-16
- 16  0.75   4 Approximate (spacing=9)          9      3    2.761214e-16
- 16  0.75   4 Approximate (spacing=10)        10      3    1.530820e-16
- 16  0.75   4 Approximate (spacing=11)        11      3    1.524037e-16
- 16  0.75   4 Approximate (spacing=12)        12      3    1.614779e-16
- 16  0.75   4 Approximate (spacing=13)        13      3    2.262598e-16
- 16  0.75   4 Approximate (spacing=14)        14      3    1.751754e-16
- 16  0.75   4 Approximate (spacing=15)        15      3    1.681185e-16
- 16  0.75   4 Approximate (spacing=16)        16      3    1.859205e-16
- 16  0.75   6 Independent                      -      1    4.184280e-01
- 16  0.75   6 Checkerboard                     -      2    4.243771e-01
- 16  0.75   6 Recursive separator              -      2    1.593496e-16
- 16  0.75   6 Approximate (spacing=1)          1      1    4.184280e-01
- 16  0.75   6 Approximate (spacing=2)          2      2    2.017071e-01
- 16  0.75   6 Approximate (spacing=3)          3      2    1.792848e-16
- 16  0.75   6 Approximate (spacing=4)          4      2    2.084396e-16
- 16  0.75   6 Approximate (spacing=5)          5      2    2.104683e-16
- 16  0.75   6 Approximate (spacing=6)          6      2    1.085586e-16
- 16  0.75   6 Approximate (spacing=7)          7      2    1.322037e-16
- 16  0.75   6 Approximate (spacing=8)          8      3    1.485804e-16
- 16  0.75   6 Approximate (spacing=9)          9      3    1.947914e-16
- 16  0.75   6 Approximate (spacing=10)        10      3    1.016716e-16
- 16  0.75   6 Approximate (spacing=11)        11      3    2.587881e-16
- 16  0.75   6 Approximate (spacing=12)        12      3    1.627884e-16
- 16  0.75   6 Approximate (spacing=13)        13      3    2.450510e-16
- 16  0.75   6 Approximate (spacing=14)        14      3    1.852021e-16
- 16  0.75   6 Approximate (spacing=15)        15      3    1.661954e-16
- 16  0.75   6 Approximate (spacing=16)        16      3    2.154841e-16
- 16  0.75   8 Independent                      -      1    3.175745e-01
- 16  0.75   8 Checkerboard                     -      2    4.243771e-01
- 16  0.75   8 Recursive separator              -      2    2.418755e-16
- 16  0.75   8 Approximate (spacing=1)          1      1    3.175745e-01
- 16  0.75   8 Approximate (spacing=2)          2      2    1.742046e-16
- 16  0.75   8 Approximate (spacing=3)          3      2    1.792848e-16
- 16  0.75   8 Approximate (spacing=4)          4      2    2.084396e-16
- 16  0.75   8 Approximate (spacing=5)          5      2    2.104683e-16
- 16  0.75   8 Approximate (spacing=6)          6      2    1.085586e-16
- 16  0.75   8 Approximate (spacing=7)          7      2    1.322037e-16
- 16  0.75   8 Approximate (spacing=8)          8      2    9.144413e-17
- 16  0.75   8 Approximate (spacing=9)          9      2    1.603454e-16
- 16  0.75   8 Approximate (spacing=10)        10      3    9.419666e-17
- 16  0.75   8 Approximate (spacing=11)        11      3    2.221065e-16
- 16  0.75   8 Approximate (spacing=12)        12      3    1.314941e-16
- 16  0.75   8 Approximate (spacing=13)        13      3    1.639353e-16
- 16  0.75   8 Approximate (spacing=14)        14      3    1.866650e-16
- 16  0.75   8 Approximate (spacing=15)        15      3    1.882923e-16
- 16  0.75   8 Approximate (spacing=16)        16      3    2.098303e-16
- 16  1.00   1 Independent                      -      1    9.149547e-01
- 16  1.00   1 Checkerboard                     -      2    6.078045e-01
- 16  1.00   1 Recursive separator              -      5    2.698076e-16
- 16  1.00   1 Approximate (spacing=1)          1      1    9.149547e-01
- 16  1.00   1 Approximate (spacing=2)          2      2    6.078045e-01
- 16  1.00   1 Approximate (spacing=3)          3      3    3.757948e-01
- 16  1.00   1 Approximate (spacing=4)          4      3    2.428026e-01
- 16  1.00   1 Approximate (spacing=5)          5      4    1.445240e-01
- 16  1.00   1 Approximate (spacing=6)          6      4    9.756895e-02
- 16  1.00   1 Approximate (spacing=7)          7      4    7.430794e-02
- 16  1.00   1 Approximate (spacing=8)          8      4    5.659249e-02
- 16  1.00   1 Approximate (spacing=9)          9      5    1.500402e-16
- 16  1.00   1 Approximate (spacing=10)        10      5    1.747590e-16
- 16  1.00   1 Approximate (spacing=11)        11      5    1.677513e-16
- 16  1.00   1 Approximate (spacing=12)        12      5    2.542887e-16
- 16  1.00   1 Approximate (spacing=13)        13      5    1.894390e-16
- 16  1.00   1 Approximate (spacing=14)        14      5    2.532339e-16
- 16  1.00   1 Approximate (spacing=15)        15      5    2.600878e-16
- 16  1.00   1 Approximate (spacing=16)        16      5    3.589141e-16
- 16  1.00   2 Independent                      -      1    7.383928e-01
- 16  1.00   2 Checkerboard                     -      2    6.078045e-01
- 16  1.00   2 Recursive separator              -      3    1.425765e-16
- 16  1.00   2 Approximate (spacing=1)          1      1    7.383928e-01
- 16  1.00   2 Approximate (spacing=2)          2      2    3.862348e-01
- 16  1.00   2 Approximate (spacing=3)          3      2    2.696565e-01
- 16  1.00   2 Approximate (spacing=4)          4      3    1.682149e-01
- 16  1.00   2 Approximate (spacing=5)          5      3    1.281115e-01
- 16  1.00   2 Approximate (spacing=6)          6      3    2.404170e-16
- 16  1.00   2 Approximate (spacing=7)          7      3    1.908747e-16
- 16  1.00   2 Approximate (spacing=8)          8      3    3.162088e-16
- 16  1.00   2 Approximate (spacing=9)          9      3    2.216406e-16
- 16  1.00   2 Approximate (spacing=10)        10      4    1.436897e-16
- 16  1.00   2 Approximate (spacing=11)        11      4    1.411903e-16
- 16  1.00   2 Approximate (spacing=12)        12      4    1.592641e-16
- 16  1.00   2 Approximate (spacing=13)        13      4    1.498296e-16
- 16  1.00   2 Approximate (spacing=14)        14      4    2.009665e-16
- 16  1.00   2 Approximate (spacing=15)        15      4    1.237738e-16
- 16  1.00   2 Approximate (spacing=16)        16      4    2.075559e-16
- 16  1.00   3 Independent                      -      1    7.013502e-01
- 16  1.00   3 Checkerboard                     -      2    6.078045e-01
- 16  1.00   3 Recursive separator              -      3    1.365360e-16
- 16  1.00   3 Approximate (spacing=1)          1      1    7.013502e-01
- 16  1.00   3 Approximate (spacing=2)          2      2    3.741203e-01
- 16  1.00   3 Approximate (spacing=3)          3      2    2.208721e-01
- 16  1.00   3 Approximate (spacing=4)          4      2    1.682149e-01
- 16  1.00   3 Approximate (spacing=5)          5      3    1.814564e-16
- 16  1.00   3 Approximate (spacing=6)          6      3    1.542285e-16
- 16  1.00   3 Approximate (spacing=7)          7      3    1.663791e-16
- 16  1.00   3 Approximate (spacing=8)          8      3    2.892486e-16
- 16  1.00   3 Approximate (spacing=9)          9      3    2.709928e-16
- 16  1.00   3 Approximate (spacing=10)        10      3    1.982513e-16
- 16  1.00   3 Approximate (spacing=11)        11      3    1.514859e-16
- 16  1.00   3 Approximate (spacing=12)        12      3    1.538894e-16
- 16  1.00   3 Approximate (spacing=13)        13      3    1.109159e-16
- 16  1.00   3 Approximate (spacing=14)        14      3    1.753455e-16
- 16  1.00   3 Approximate (spacing=15)        15      3    1.865840e-16
- 16  1.00   3 Approximate (spacing=16)        16      3    2.213153e-16
- 16  1.00   4 Independent                      -      1    5.583254e-01
- 16  1.00   4 Checkerboard                     -      2    6.078045e-01
- 16  1.00   4 Recursive separator              -      2    1.857428e-16
- 16  1.00   4 Approximate (spacing=1)          1      1    5.583254e-01
- 16  1.00   4 Approximate (spacing=2)          2      2    2.900128e-01
- 16  1.00   4 Approximate (spacing=3)          3      2    2.208721e-01
- 16  1.00   4 Approximate (spacing=4)          4      2    1.403008e-16
- 16  1.00   4 Approximate (spacing=5)          5      2    1.401454e-16
- 16  1.00   4 Approximate (spacing=6)          6      3    2.468129e-16
- 16  1.00   4 Approximate (spacing=7)          7      3    1.594440e-16
- 16  1.00   4 Approximate (spacing=8)          8      3    2.081616e-16
- 16  1.00   4 Approximate (spacing=9)          9      3    2.182977e-16
- 16  1.00   4 Approximate (spacing=10)        10      3    2.376701e-16
- 16  1.00   4 Approximate (spacing=11)        11      3    1.958865e-16
- 16  1.00   4 Approximate (spacing=12)        12      3    1.497765e-16
- 16  1.00   4 Approximate (spacing=13)        13      3    1.647858e-16
- 16  1.00   4 Approximate (spacing=14)        14      3    1.948855e-16
- 16  1.00   4 Approximate (spacing=15)        15      3    3.034280e-16
- 16  1.00   4 Approximate (spacing=16)        16      3    3.040377e-16
- 16  1.00   6 Independent                      -      1    5.258035e-01
- 16  1.00   6 Checkerboard                     -      2    6.078045e-01
- 16  1.00   6 Recursive separator              -      2    1.981820e-16
- 16  1.00   6 Approximate (spacing=1)          1      1    5.258035e-01
- 16  1.00   6 Approximate (spacing=2)          2      2    2.900128e-01
- 16  1.00   6 Approximate (spacing=3)          3      2    2.587172e-16
- 16  1.00   6 Approximate (spacing=4)          4      2    1.403008e-16
- 16  1.00   6 Approximate (spacing=5)          5      2    1.401454e-16
- 16  1.00   6 Approximate (spacing=6)          6      2    1.773179e-16
- 16  1.00   6 Approximate (spacing=7)          7      2    1.247619e-16
- 16  1.00   6 Approximate (spacing=8)          8      3    1.134688e-16
- 16  1.00   6 Approximate (spacing=9)          9      3    1.879310e-16
- 16  1.00   6 Approximate (spacing=10)        10      3    1.939275e-16
- 16  1.00   6 Approximate (spacing=11)        11      3    2.745997e-16
- 16  1.00   6 Approximate (spacing=12)        12      3    1.532718e-16
- 16  1.00   6 Approximate (spacing=13)        13      3    1.987326e-16
- 16  1.00   6 Approximate (spacing=14)        14      3    2.953593e-16
- 16  1.00   6 Approximate (spacing=15)        15      3    3.564528e-16
- 16  1.00   6 Approximate (spacing=16)        16      3    3.697080e-16
- 16  1.00   8 Independent                      -      1    3.807971e-01
- 16  1.00   8 Checkerboard                     -      2    6.078045e-01
- 16  1.00   8 Recursive separator              -      2    2.100256e-16
- 16  1.00   8 Approximate (spacing=1)          1      1    3.807971e-01
- 16  1.00   8 Approximate (spacing=2)          2      2    2.495721e-16
- 16  1.00   8 Approximate (spacing=3)          3      2    2.587172e-16
- 16  1.00   8 Approximate (spacing=4)          4      2    1.403008e-16
- 16  1.00   8 Approximate (spacing=5)          5      2    1.401454e-16
- 16  1.00   8 Approximate (spacing=6)          6      2    1.773179e-16
- 16  1.00   8 Approximate (spacing=7)          7      2    1.247619e-16
- 16  1.00   8 Approximate (spacing=8)          8      2    1.869846e-16
- 16  1.00   8 Approximate (spacing=9)          9      2    1.647974e-16
- 16  1.00   8 Approximate (spacing=10)        10      3    1.908488e-16
- 16  1.00   8 Approximate (spacing=11)        11      3    2.603729e-16
- 16  1.00   8 Approximate (spacing=12)        12      3    1.428515e-16
- 16  1.00   8 Approximate (spacing=13)        13      3    1.533000e-16
- 16  1.00   8 Approximate (spacing=14)        14      3    3.148020e-16
- 16  1.00   8 Approximate (spacing=15)        15      3    2.271323e-16
- 16  1.00   8 Approximate (spacing=16)        16      3    2.707031e-16
- 16  1.50   1 Independent                      -      1    9.778929e-01
- 16  1.50   1 Checkerboard                     -      2    8.111844e-01
- 16  1.50   1 Recursive separator              -      5    3.503372e-16
- 16  1.50   1 Approximate (spacing=1)          1      1    9.778929e-01
- 16  1.50   1 Approximate (spacing=2)          2      2    8.111844e-01
- 16  1.50   1 Approximate (spacing=3)          3      3    6.037511e-01
- 16  1.50   1 Approximate (spacing=4)          4      3    4.584824e-01
- 16  1.50   1 Approximate (spacing=5)          5      4    3.960729e-01
- 16  1.50   1 Approximate (spacing=6)          6      4    2.749719e-01
- 16  1.50   1 Approximate (spacing=7)          7      4    2.488903e-01
- 16  1.50   1 Approximate (spacing=8)          8      4    2.252827e-01
- 16  1.50   1 Approximate (spacing=9)          9      5    5.876063e-16
- 16  1.50   1 Approximate (spacing=10)        10      5    4.853579e-16
- 16  1.50   1 Approximate (spacing=11)        11      5    2.940432e-16
- 16  1.50   1 Approximate (spacing=12)        12      5    3.890402e-16
- 16  1.50   1 Approximate (spacing=13)        13      5    4.358872e-16
- 16  1.50   1 Approximate (spacing=14)        14      5    3.127415e-16
- 16  1.50   1 Approximate (spacing=15)        15      5    3.229426e-16
- 16  1.50   1 Approximate (spacing=16)        16      5    1.724096e-16
- 16  1.50   2 Independent                      -      1    8.972220e-01
- 16  1.50   2 Checkerboard                     -      2    8.111844e-01
- 16  1.50   2 Recursive separator              -      3    2.724393e-16
- 16  1.50   2 Approximate (spacing=1)          1      1    8.972220e-01
- 16  1.50   2 Approximate (spacing=2)          2      2    6.276936e-01
- 16  1.50   2 Approximate (spacing=3)          3      2    5.082769e-01
- 16  1.50   2 Approximate (spacing=4)          4      3    3.356208e-01
- 16  1.50   2 Approximate (spacing=5)          5      3    3.037866e-01
- 16  1.50   2 Approximate (spacing=6)          6      3    2.449862e-16
- 16  1.50   2 Approximate (spacing=7)          7      3    1.363532e-16
- 16  1.50   2 Approximate (spacing=8)          8      3    2.271237e-16
- 16  1.50   2 Approximate (spacing=9)          9      3    2.162158e-16
- 16  1.50   2 Approximate (spacing=10)        10      4    1.393604e-16
- 16  1.50   2 Approximate (spacing=11)        11      4    2.737883e-16
- 16  1.50   2 Approximate (spacing=12)        12      4    2.830293e-16
- 16  1.50   2 Approximate (spacing=13)        13      4    3.965015e-16
- 16  1.50   2 Approximate (spacing=14)        14      4    1.277242e-16
- 16  1.50   2 Approximate (spacing=15)        15      4    3.379275e-16
- 16  1.50   2 Approximate (spacing=16)        16      4    1.692433e-16
- 16  1.50   3 Independent                      -      1    7.920664e-01
- 16  1.50   3 Checkerboard                     -      2    8.111844e-01
- 16  1.50   3 Recursive separator              -      3    2.830974e-16
- 16  1.50   3 Approximate (spacing=1)          1      1    7.920664e-01
- 16  1.50   3 Approximate (spacing=2)          2      2    5.774571e-01
- 16  1.50   3 Approximate (spacing=3)          3      2    3.707910e-01
- 16  1.50   3 Approximate (spacing=4)          4      2    3.356208e-01
- 16  1.50   3 Approximate (spacing=5)          5      3    2.953787e-16
- 16  1.50   3 Approximate (spacing=6)          6      3    2.983232e-16
- 16  1.50   3 Approximate (spacing=7)          7      3    9.822824e-17
- 16  1.50   3 Approximate (spacing=8)          8      3    2.415501e-16
- 16  1.50   3 Approximate (spacing=9)          9      3    3.331090e-16
- 16  1.50   3 Approximate (spacing=10)        10      3    3.528895e-16
- 16  1.50   3 Approximate (spacing=11)        11      3    2.888120e-16
- 16  1.50   3 Approximate (spacing=12)        12      3    3.084920e-16
- 16  1.50   3 Approximate (spacing=13)        13      3    1.518366e-16
- 16  1.50   3 Approximate (spacing=14)        14      3    1.633180e-16
- 16  1.50   3 Approximate (spacing=15)        15      3    2.722183e-16
- 16  1.50   3 Approximate (spacing=16)        16      3    1.112321e-16
- 16  1.50   4 Independent                      -      1    7.393633e-01
- 16  1.50   4 Checkerboard                     -      2    8.111844e-01
- 16  1.50   4 Recursive separator              -      2    1.288958e-16
- 16  1.50   4 Approximate (spacing=1)          1      1    7.393633e-01
- 16  1.50   4 Approximate (spacing=2)          2      2    4.096467e-01
- 16  1.50   4 Approximate (spacing=3)          3      2    3.707910e-01
- 16  1.50   4 Approximate (spacing=4)          4      2    1.338937e-16
- 16  1.50   4 Approximate (spacing=5)          5      2    2.647693e-16
- 16  1.50   4 Approximate (spacing=6)          6      3    2.380686e-16
- 16  1.50   4 Approximate (spacing=7)          7      3    1.191468e-16
- 16  1.50   4 Approximate (spacing=8)          8      3    2.079303e-16
- 16  1.50   4 Approximate (spacing=9)          9      3    3.719666e-16
- 16  1.50   4 Approximate (spacing=10)        10      3    3.395067e-16
- 16  1.50   4 Approximate (spacing=11)        11      3    3.129600e-16
- 16  1.50   4 Approximate (spacing=12)        12      3    3.283270e-16
- 16  1.50   4 Approximate (spacing=13)        13      3    1.838975e-16
- 16  1.50   4 Approximate (spacing=14)        14      3    7.028507e-17
- 16  1.50   4 Approximate (spacing=15)        15      3    4.045712e-16
- 16  1.50   4 Approximate (spacing=16)        16      3    3.474613e-16
- 16  1.50   6 Independent                      -      1    6.573975e-01
- 16  1.50   6 Checkerboard                     -      2    8.111844e-01
- 16  1.50   6 Recursive separator              -      2    2.378652e-16
- 16  1.50   6 Approximate (spacing=1)          1      1    6.573975e-01
- 16  1.50   6 Approximate (spacing=2)          2      2    4.096467e-01
- 16  1.50   6 Approximate (spacing=3)          3      2    4.317715e-16
- 16  1.50   6 Approximate (spacing=4)          4      2    1.338937e-16
- 16  1.50   6 Approximate (spacing=5)          5      2    2.647693e-16
- 16  1.50   6 Approximate (spacing=6)          6      2    2.270340e-16
- 16  1.50   6 Approximate (spacing=7)          7      2    1.284721e-16
- 16  1.50   6 Approximate (spacing=8)          8      3    1.306029e-16
- 16  1.50   6 Approximate (spacing=9)          9      3    3.373278e-16
- 16  1.50   6 Approximate (spacing=10)        10      3    3.353099e-16
- 16  1.50   6 Approximate (spacing=11)        11      3    1.559682e-16
- 16  1.50   6 Approximate (spacing=12)        12      3    1.311706e-16
- 16  1.50   6 Approximate (spacing=13)        13      3    1.530528e-16
- 16  1.50   6 Approximate (spacing=14)        14      3    2.229214e-16
- 16  1.50   6 Approximate (spacing=15)        15      3    2.262524e-16
- 16  1.50   6 Approximate (spacing=16)        16      3    2.961453e-16
- 16  1.50   8 Independent                      -      1    4.525741e-01
- 16  1.50   8 Checkerboard                     -      2    8.111844e-01
- 16  1.50   8 Recursive separator              -      2    2.689274e-16
- 16  1.50   8 Approximate (spacing=1)          1      1    4.525741e-01
- 16  1.50   8 Approximate (spacing=2)          2      2    2.178067e-16
- 16  1.50   8 Approximate (spacing=3)          3      2    4.317715e-16
- 16  1.50   8 Approximate (spacing=4)          4      2    1.338937e-16
- 16  1.50   8 Approximate (spacing=5)          5      2    2.647693e-16
- 16  1.50   8 Approximate (spacing=6)          6      2    2.270340e-16
- 16  1.50   8 Approximate (spacing=7)          7      2    1.284721e-16
- 16  1.50   8 Approximate (spacing=8)          8      2    3.401370e-16
- 16  1.50   8 Approximate (spacing=9)          9      2    3.304740e-16
- 16  1.50   8 Approximate (spacing=10)        10      3    2.791501e-16
- 16  1.50   8 Approximate (spacing=11)        11      3    2.071419e-16
- 16  1.50   8 Approximate (spacing=12)        12      3    1.779352e-16
- 16  1.50   8 Approximate (spacing=13)        13      3    1.989978e-16
- 16  1.50   8 Approximate (spacing=14)        14      3    1.634567e-16
- 16  1.50   8 Approximate (spacing=15)        15      3    2.638153e-16
- 16  1.50   8 Approximate (spacing=16)        16      3    2.061804e-16
- 16  2.00   1 Independent                      -      1    9.940562e-01
- 16  2.00   1 Checkerboard                     -      2    9.142212e-01
- 16  2.00   1 Recursive separator              -      5    2.906948e-16
- 16  2.00   1 Approximate (spacing=1)          1      1    9.940562e-01
- 16  2.00   1 Approximate (spacing=2)          2      2    9.142212e-01
- 16  2.00   1 Approximate (spacing=3)          3      3    7.450296e-01
- 16  2.00   1 Approximate (spacing=4)          4      3    6.841536e-01
- 16  2.00   1 Approximate (spacing=5)          5      4    5.896248e-01
- 16  2.00   1 Approximate (spacing=6)          6      4    4.013347e-01
- 16  2.00   1 Approximate (spacing=7)          7      4    3.868978e-01
- 16  2.00   1 Approximate (spacing=8)          8      4    3.729801e-01
- 16  2.00   1 Approximate (spacing=9)          9      5    3.687365e-16
- 16  2.00   1 Approximate (spacing=10)        10      5    2.080022e-16
- 16  2.00   1 Approximate (spacing=11)        11      5    3.680639e-16
- 16  2.00   1 Approximate (spacing=12)        12      5    2.641079e-16
- 16  2.00   1 Approximate (spacing=13)        13      5    2.832387e-16
- 16  2.00   1 Approximate (spacing=14)        14      5    3.479094e-16
- 16  2.00   1 Approximate (spacing=15)        15      5    3.082799e-16
- 16  2.00   1 Approximate (spacing=16)        16      5    1.535638e-16
- 16  2.00   2 Independent                      -      1    9.311029e-01
- 16  2.00   2 Checkerboard                     -      2    9.142212e-01
- 16  2.00   2 Recursive separator              -      3    2.297209e-16
- 16  2.00   2 Approximate (spacing=1)          1      1    9.311029e-01
- 16  2.00   2 Approximate (spacing=2)          2      2    7.727233e-01
- 16  2.00   2 Approximate (spacing=3)          3      2    6.486265e-01
- 16  2.00   2 Approximate (spacing=4)          4      3    4.318449e-01
- 16  2.00   2 Approximate (spacing=5)          5      3    4.163104e-01
- 16  2.00   2 Approximate (spacing=6)          6      3    2.946593e-16
- 16  2.00   2 Approximate (spacing=7)          7      3    2.625283e-16
- 16  2.00   2 Approximate (spacing=8)          8      3    1.642596e-16
- 16  2.00   2 Approximate (spacing=9)          9      3    8.414610e-17
- 16  2.00   2 Approximate (spacing=10)        10      4    1.867949e-16
- 16  2.00   2 Approximate (spacing=11)        11      4    2.579059e-16
- 16  2.00   2 Approximate (spacing=12)        12      4    2.151954e-16
- 16  2.00   2 Approximate (spacing=13)        13      4    3.195798e-16
- 16  2.00   2 Approximate (spacing=14)        14      4    2.490370e-16
- 16  2.00   2 Approximate (spacing=15)        15      4    3.172083e-16
- 16  2.00   2 Approximate (spacing=16)        16      4    2.395278e-16
- 16  2.00   3 Independent                      -      1    8.819963e-01
- 16  2.00   3 Checkerboard                     -      2    9.142212e-01
- 16  2.00   3 Recursive separator              -      3    2.614236e-16
- 16  2.00   3 Approximate (spacing=1)          1      1    8.819963e-01
- 16  2.00   3 Approximate (spacing=2)          2      2    6.805971e-01
- 16  2.00   3 Approximate (spacing=3)          3      2    4.479591e-01
- 16  2.00   3 Approximate (spacing=4)          4      2    4.318449e-01
- 16  2.00   3 Approximate (spacing=5)          5      3    2.579915e-16
- 16  2.00   3 Approximate (spacing=6)          6      3    2.045843e-16
- 16  2.00   3 Approximate (spacing=7)          7      3    2.982106e-16
- 16  2.00   3 Approximate (spacing=8)          8      3    2.202409e-16
- 16  2.00   3 Approximate (spacing=9)          9      3    3.200744e-16
- 16  2.00   3 Approximate (spacing=10)        10      3    1.972360e-16
- 16  2.00   3 Approximate (spacing=11)        11      3    2.003423e-16
- 16  2.00   3 Approximate (spacing=12)        12      3    1.865039e-16
- 16  2.00   3 Approximate (spacing=13)        13      3    2.382547e-16
- 16  2.00   3 Approximate (spacing=14)        14      3    2.453698e-16
- 16  2.00   3 Approximate (spacing=15)        15      3    2.384357e-16
- 16  2.00   3 Approximate (spacing=16)        16      3    1.670843e-16
- 16  2.00   4 Independent                      -      1    8.220061e-01
- 16  2.00   4 Checkerboard                     -      2    9.142212e-01
- 16  2.00   4 Recursive separator              -      2    1.609848e-16
- 16  2.00   4 Approximate (spacing=1)          1      1    8.220061e-01
- 16  2.00   4 Approximate (spacing=2)          2      2    4.646746e-01
- 16  2.00   4 Approximate (spacing=3)          3      2    4.479591e-01
- 16  2.00   4 Approximate (spacing=4)          4      2    1.614033e-16
- 16  2.00   4 Approximate (spacing=5)          5      2    2.655257e-16
- 16  2.00   4 Approximate (spacing=6)          6      3    1.612378e-16
- 16  2.00   4 Approximate (spacing=7)          7      3    2.699366e-16
- 16  2.00   4 Approximate (spacing=8)          8      3    2.510487e-16
- 16  2.00   4 Approximate (spacing=9)          9      3    2.837314e-16
- 16  2.00   4 Approximate (spacing=10)        10      3    1.613255e-16
- 16  2.00   4 Approximate (spacing=11)        11      3    2.394220e-16
- 16  2.00   4 Approximate (spacing=12)        12      3    1.778957e-16
- 16  2.00   4 Approximate (spacing=13)        13      3    1.828298e-16
- 16  2.00   4 Approximate (spacing=14)        14      3    2.152409e-16
- 16  2.00   4 Approximate (spacing=15)        15      3    2.075452e-16
- 16  2.00   4 Approximate (spacing=16)        16      3    2.641691e-16
- 16  2.00   6 Independent                      -      1    7.143511e-01
- 16  2.00   6 Checkerboard                     -      2    9.142212e-01
- 16  2.00   6 Recursive separator              -      2    1.874038e-16
- 16  2.00   6 Approximate (spacing=1)          1      1    7.143511e-01
- 16  2.00   6 Approximate (spacing=2)          2      2    4.646746e-01
- 16  2.00   6 Approximate (spacing=3)          3      2    2.124368e-16
- 16  2.00   6 Approximate (spacing=4)          4      2    1.614033e-16
- 16  2.00   6 Approximate (spacing=5)          5      2    2.655257e-16
- 16  2.00   6 Approximate (spacing=6)          6      2    1.804379e-16
- 16  2.00   6 Approximate (spacing=7)          7      2    3.123643e-16
- 16  2.00   6 Approximate (spacing=8)          8      3    2.876428e-16
- 16  2.00   6 Approximate (spacing=9)          9      3    1.751079e-16
- 16  2.00   6 Approximate (spacing=10)        10      3    2.165558e-16
- 16  2.00   6 Approximate (spacing=11)        11      3    2.320151e-16
- 16  2.00   6 Approximate (spacing=12)        12      3    2.244743e-16
- 16  2.00   6 Approximate (spacing=13)        13      3    1.414359e-16
- 16  2.00   6 Approximate (spacing=14)        14      3    1.758034e-16
- 16  2.00   6 Approximate (spacing=15)        15      3    1.450146e-16
- 16  2.00   6 Approximate (spacing=16)        16      3    2.164248e-16
- 16  2.00   8 Independent                      -      1    4.820138e-01
- 16  2.00   8 Checkerboard                     -      2    9.142212e-01
- 16  2.00   8 Recursive separator              -      2    2.440892e-16
- 16  2.00   8 Approximate (spacing=1)          1      1    4.820138e-01
- 16  2.00   8 Approximate (spacing=2)          2      2    1.177671e-16
- 16  2.00   8 Approximate (spacing=3)          3      2    2.124368e-16
- 16  2.00   8 Approximate (spacing=4)          4      2    1.614033e-16
- 16  2.00   8 Approximate (spacing=5)          5      2    2.655257e-16
- 16  2.00   8 Approximate (spacing=6)          6      2    1.804379e-16
- 16  2.00   8 Approximate (spacing=7)          7      2    3.123643e-16
- 16  2.00   8 Approximate (spacing=8)          8      2    1.460246e-16
- 16  2.00   8 Approximate (spacing=9)          9      2    2.117067e-16
- 16  2.00   8 Approximate (spacing=10)        10      3    2.082359e-16
- 16  2.00   8 Approximate (spacing=11)        11      3    2.011262e-16
- 16  2.00   8 Approximate (spacing=12)        12      3    2.076737e-16
- 16  2.00   8 Approximate (spacing=13)        13      3    8.908828e-17
- 16  2.00   8 Approximate (spacing=14)        14      3    1.795045e-16
- 16  2.00   8 Approximate (spacing=15)        15      3    1.742508e-16
- 16  2.00   8 Approximate (spacing=16)        16      3    8.149314e-17
- 16  3.00   1 Independent                      -      1    9.988834e-01
- 16  3.00   1 Checkerboard                     -      2    9.581632e-01
- 16  3.00   1 Recursive separator              -      5    1.208773e-16
- 16  3.00   1 Approximate (spacing=1)          1      1    9.988834e-01
- 16  3.00   1 Approximate (spacing=2)          2      2    9.581632e-01
- 16  3.00   1 Approximate (spacing=3)          3      3    9.083003e-01
- 16  3.00   1 Approximate (spacing=4)          4      3    8.458361e-01
- 16  3.00   1 Approximate (spacing=5)          5      4    7.256670e-01
- 16  3.00   1 Approximate (spacing=6)          6      4    4.853465e-01
- 16  3.00   1 Approximate (spacing=7)          7      4    4.829463e-01
- 16  3.00   1 Approximate (spacing=8)          8      4    4.805580e-01
- 16  3.00   1 Approximate (spacing=9)          9      5    6.342357e-17
- 16  3.00   1 Approximate (spacing=10)        10      5    1.199949e-16
- 16  3.00   1 Approximate (spacing=11)        11      5    1.487556e-16
- 16  3.00   1 Approximate (spacing=12)        12      5    1.484227e-16
- 16  3.00   1 Approximate (spacing=13)        13      5    2.035989e-16
- 16  3.00   1 Approximate (spacing=14)        14      5    1.205451e-16
- 16  3.00   1 Approximate (spacing=15)        15      5    2.045265e-16
- 16  3.00   1 Approximate (spacing=16)        16      5    9.260956e-17
- 16  3.00   2 Independent                      -      1    9.750070e-01
- 16  3.00   2 Checkerboard                     -      2    9.581632e-01
- 16  3.00   2 Recursive separator              -      3    1.182534e-16
- 16  3.00   2 Approximate (spacing=1)          1      1    9.750070e-01
- 16  3.00   2 Approximate (spacing=2)          2      2    8.602738e-01
- 16  3.00   2 Approximate (spacing=3)          3      2    7.352920e-01
- 16  3.00   2 Approximate (spacing=4)          4      3    4.901826e-01
- 16  3.00   2 Approximate (spacing=5)          5      3    4.877586e-01
- 16  3.00   2 Approximate (spacing=6)          6      3    2.313228e-16
- 16  3.00   2 Approximate (spacing=7)          7      3    2.043520e-16
- 16  3.00   2 Approximate (spacing=8)          8      3    1.196863e-16
- 16  3.00   2 Approximate (spacing=9)          9      3    1.209019e-16
- 16  3.00   2 Approximate (spacing=10)        10      4    1.203268e-16
- 16  3.00   2 Approximate (spacing=11)        11      4    1.470959e-16
- 16  3.00   2 Approximate (spacing=12)        12      4    2.031418e-16
- 16  3.00   2 Approximate (spacing=13)        13      4    6.478658e-17
- 16  3.00   2 Approximate (spacing=14)        14      4    9.165213e-17
- 16  3.00   2 Approximate (spacing=15)        15      4    1.479362e-16
- 16  3.00   2 Approximate (spacing=16)        16      4    1.215233e-16
- 16  3.00   3 Independent                      -      1    9.564479e-01
- 16  3.00   3 Checkerboard                     -      2    9.581632e-01
- 16  3.00   3 Recursive separator              -      3    2.313288e-16
- 16  3.00   3 Approximate (spacing=1)          1      1    9.564479e-01
- 16  3.00   3 Approximate (spacing=2)          2      2    7.401583e-01
- 16  3.00   3 Approximate (spacing=3)          3      2    4.926188e-01
- 16  3.00   3 Approximate (spacing=4)          4      2    4.901826e-01
- 16  3.00   3 Approximate (spacing=5)          5      3    9.090296e-17
- 16  3.00   3 Approximate (spacing=6)          6      3    1.180144e-16
- 16  3.00   3 Approximate (spacing=7)          7      3    1.472062e-16
- 16  3.00   3 Approximate (spacing=8)          8      3    2.059017e-16
- 16  3.00   3 Approximate (spacing=9)          9      3    9.247487e-17
- 16  3.00   3 Approximate (spacing=10)        10      3    1.494987e-16
- 16  3.00   3 Approximate (spacing=11)        11      3    1.200739e-16
- 16  3.00   3 Approximate (spacing=12)        12      3    1.478350e-16
- 16  3.00   3 Approximate (spacing=13)        13      3    1.200836e-16
- 16  3.00   3 Approximate (spacing=14)        14      3    1.487982e-16
- 16  3.00   3 Approximate (spacing=15)        15      3    2.030925e-16
- 16  3.00   3 Approximate (spacing=16)        16      3    2.321022e-16
- 16  3.00   4 Independent                      -      1    8.676005e-01
- 16  3.00   4 Checkerboard                     -      2    9.581632e-01
- 16  3.00   4 Recursive separator              -      2    9.329890e-17
- 16  3.00   4 Approximate (spacing=1)          1      1    8.676005e-01
- 16  3.00   4 Approximate (spacing=2)          2      2    4.950670e-01
- 16  3.00   4 Approximate (spacing=3)          3      2    4.926188e-01
- 16  3.00   4 Approximate (spacing=4)          4      2    2.040079e-16
- 16  3.00   4 Approximate (spacing=5)          5      2    8.999018e-17
- 16  3.00   4 Approximate (spacing=6)          6      3    1.751598e-16
- 16  3.00   4 Approximate (spacing=7)          7      3    9.258994e-17
- 16  3.00   4 Approximate (spacing=8)          8      3    1.213299e-16
- 16  3.00   4 Approximate (spacing=9)          9      3    2.053677e-16
- 16  3.00   4 Approximate (spacing=10)        10      3    1.213012e-16
- 16  3.00   4 Approximate (spacing=11)        11      3    1.202973e-16
- 16  3.00   4 Approximate (spacing=12)        12      3    2.312094e-16
- 16  3.00   4 Approximate (spacing=13)        13      3    1.196259e-16
- 16  3.00   4 Approximate (spacing=14)        14      3    1.481500e-16
- 16  3.00   4 Approximate (spacing=15)        15      3    9.035270e-17
- 16  3.00   4 Approximate (spacing=16)        16      3    1.732795e-16
- 16  3.00   6 Independent                      -      1    7.450609e-01
- 16  3.00   6 Checkerboard                     -      2    9.581632e-01
- 16  3.00   6 Recursive separator              -      2    1.216583e-16
- 16  3.00   6 Approximate (spacing=1)          1      1    7.450609e-01
- 16  3.00   6 Approximate (spacing=2)          2      2    4.950670e-01
- 16  3.00   6 Approximate (spacing=3)          3      2    1.183244e-16
- 16  3.00   6 Approximate (spacing=4)          4      2    2.040079e-16
- 16  3.00   6 Approximate (spacing=5)          5      2    8.999018e-17
- 16  3.00   6 Approximate (spacing=6)          6      2    1.756870e-16
- 16  3.00   6 Approximate (spacing=7)          7      2    1.488451e-16
- 16  3.00   6 Approximate (spacing=8)          8      3    1.500551e-16
- 16  3.00   6 Approximate (spacing=9)          9      3    1.206526e-16
- 16  3.00   6 Approximate (spacing=10)        10      3    1.483987e-16
- 16  3.00   6 Approximate (spacing=11)        11      3    1.457597e-16
- 16  3.00   6 Approximate (spacing=12)        12      3    1.742640e-16
- 16  3.00   6 Approximate (spacing=13)        13      3    9.195549e-17
- 16  3.00   6 Approximate (spacing=14)        14      3    8.933533e-17
- 16  3.00   6 Approximate (spacing=15)        15      3    2.013016e-16
- 16  3.00   6 Approximate (spacing=16)        16      3    9.023433e-17
- 16  3.00   8 Independent                      -      1    4.975274e-01
- 16  3.00   8 Checkerboard                     -      2    9.581632e-01
- 16  3.00   8 Recursive separator              -      2    6.155889e-17
- 16  3.00   8 Approximate (spacing=1)          1      1    4.975274e-01
- 16  3.00   8 Approximate (spacing=2)          2      2    6.312408e-17
- 16  3.00   8 Approximate (spacing=3)          3      2    1.183244e-16
- 16  3.00   8 Approximate (spacing=4)          4      2    2.040079e-16
- 16  3.00   8 Approximate (spacing=5)          5      2    8.999018e-17
- 16  3.00   8 Approximate (spacing=6)          6      2    1.756870e-16
- 16  3.00   8 Approximate (spacing=7)          7      2    1.488451e-16
- 16  3.00   8 Approximate (spacing=8)          8      2    1.477366e-16
- 16  3.00   8 Approximate (spacing=9)          9      2    1.765286e-16
- 16  3.00   8 Approximate (spacing=10)        10      3    1.491707e-16
- 16  3.00   8 Approximate (spacing=11)        11      3    1.444414e-16
- 16  3.00   8 Approximate (spacing=12)        12      3    1.717390e-16
- 16  3.00   8 Approximate (spacing=13)        13      3    1.180534e-16
- 16  3.00   8 Approximate (spacing=14)        14      3    8.800938e-17
- 16  3.00   8 Approximate (spacing=15)        15      3    1.162024e-16
- 16  3.00   8 Approximate (spacing=16)        16      3    9.129101e-17
- 16  5.00   1 Independent                      -      1    9.995115e-01
- 16  5.00   1 Checkerboard                     -      2    9.915521e-01
- 16  5.00   1 Recursive separator              -      5    2.776964e-16
- 16  5.00   1 Approximate (spacing=1)          1      1    9.995115e-01
- 16  5.00   1 Approximate (spacing=2)          2      2    9.915521e-01
- 16  5.00   1 Approximate (spacing=3)          3      3    9.369554e-01
- 16  5.00   1 Approximate (spacing=4)          4      3    8.744554e-01
- 16  5.00   1 Approximate (spacing=5)          5      4    7.495462e-01
- 16  5.00   1 Approximate (spacing=6)          6      4    4.997277e-01
- 16  5.00   1 Approximate (spacing=7)          7      4    4.996823e-01
- 16  5.00   1 Approximate (spacing=8)          8      4    4.996369e-01
- 16  5.00   1 Approximate (spacing=9)          9      5    8.336333e-17
- 16  5.00   1 Approximate (spacing=10)        10      5    1.666690e-16
- 16  5.00   1 Approximate (spacing=11)        11      5    1.944212e-16
- 16  5.00   1 Approximate (spacing=12)        12      5    1.943822e-16
- 16  5.00   1 Approximate (spacing=13)        13      5    1.388592e-16
- 16  5.00   1 Approximate (spacing=14)        14      5    5.562977e-17
- 16  5.00   1 Approximate (spacing=15)        15      5    1.388830e-16
- 16  5.00   1 Approximate (spacing=16)        16      5    5.563655e-17
- 16  5.00   2 Independent                      -      1    9.918698e-01
- 16  5.00   2 Checkerboard                     -      2    9.915521e-01
- 16  5.00   2 Recursive separator              -      3    1.388880e-16
- 16  5.00   2 Approximate (spacing=1)          1      1    9.918698e-01
- 16  5.00   2 Approximate (spacing=2)          2      2    8.747276e-01
- 16  5.00   2 Approximate (spacing=3)          3      2    7.497277e-01
- 16  5.00   2 Approximate (spacing=4)          4      3    4.998184e-01
- 16  5.00   2 Approximate (spacing=5)          5      3    4.997731e-01
- 16  5.00   2 Approximate (spacing=6)          6      3    2.221463e-16
- 16  5.00   2 Approximate (spacing=7)          7      3    3.610224e-16
- 16  5.00   2 Approximate (spacing=8)          8      3    2.777117e-16
- 16  5.00   2 Approximate (spacing=9)          9      3    1.666267e-16
- 16  5.00   2 Approximate (spacing=10)        10      4    2.221531e-16
- 16  5.00   2 Approximate (spacing=11)        11      4    5.558573e-17
- 16  5.00   2 Approximate (spacing=12)        12      4    5.559588e-17
- 16  5.00   2 Approximate (spacing=13)        13      4    8.334638e-17
- 16  5.00   2 Approximate (spacing=14)        14      4    2.781490e-17
- 16  5.00   2 Approximate (spacing=15)        15      4    2.788776e-17
- 16  5.00   2 Approximate (spacing=16)        16      4    2.783862e-17
- 16  5.00   3 Independent                      -      1    9.685230e-01
- 16  5.00   3 Checkerboard                     -      2    9.915521e-01
- 16  5.00   3 Recursive separator              -      3    1.389270e-16
- 16  5.00   3 Approximate (spacing=1)          1      1    9.685230e-01
- 16  5.00   3 Approximate (spacing=2)          2      2    7.498184e-01
- 16  5.00   3 Approximate (spacing=3)          3      2    4.998638e-01
- 16  5.00   3 Approximate (spacing=4)          4      2    4.998184e-01
- 16  5.00   3 Approximate (spacing=5)          5      3    2.784031e-17
- 16  5.00   3 Approximate (spacing=6)          6      3    8.334299e-17
- 16  5.00   3 Approximate (spacing=7)          7      3    2.785557e-17
- 16  5.00   3 Approximate (spacing=8)          8      3    1.111579e-16
- 16  5.00   3 Approximate (spacing=9)          9      3    2.500001e-16
- 16  5.00   3 Approximate (spacing=10)        10      3    1.943755e-16
- 16  5.00   3 Approximate (spacing=11)        11      3    5.556370e-17
- 16  5.00   3 Approximate (spacing=12)        12      3    1.666639e-16
- 16  5.00   3 Approximate (spacing=13)        13      3    1.943670e-16
- 16  5.00   3 Approximate (spacing=14)        14      3    1.943890e-16
- 16  5.00   3 Approximate (spacing=15)        15      3    2.776439e-16
- 16  5.00   3 Approximate (spacing=16)        16      3    1.666301e-16
- 16  5.00   4 Independent                      -      1    8.748638e-01
- 16  5.00   4 Checkerboard                     -      2    9.915521e-01
- 16  5.00   4 Recursive separator              -      2    1.943568e-16
- 16  5.00   4 Approximate (spacing=1)          1      1    8.748638e-01
- 16  5.00   4 Approximate (spacing=2)          2      2    4.999092e-01
- 16  5.00   4 Approximate (spacing=3)          3      2    4.998638e-01
- 16  5.00   4 Approximate (spacing=4)          4      2    1.666301e-16
- 16  5.00   4 Approximate (spacing=5)          5      2    2.499205e-16
- 16  5.00   4 Approximate (spacing=6)          6      3    5.557048e-17
- 16  5.00   4 Approximate (spacing=7)          7      3    2.783862e-17
- 16  5.00   4 Approximate (spacing=8)          8      3    2.782677e-17
- 16  5.00   4 Approximate (spacing=9)          9      3    5.560775e-17
- 16  5.00   4 Approximate (spacing=10)        10      3    8.332945e-17
- 16  5.00   4 Approximate (spacing=11)        11      3    2.776456e-16
- 16  5.00   4 Approximate (spacing=12)        12      3    3.887323e-16
- 16  5.00   4 Approximate (spacing=13)        13      3    2.499273e-16
- 16  5.00   4 Approximate (spacing=14)        14      3    1.388728e-16
- 16  5.00   4 Approximate (spacing=15)        15      3    2.221192e-16
- 16  5.00   4 Approximate (spacing=16)        16      3    2.776693e-16
- 16  5.00   6 Independent                      -      1    7.499092e-01
- 16  5.00   6 Checkerboard                     -      2    9.915521e-01
- 16  5.00   6 Recursive separator              -      2    3.054232e-16
- 16  5.00   6 Approximate (spacing=1)          1      1    7.499092e-01
- 16  5.00   6 Approximate (spacing=2)          2      2    4.999092e-01
- 16  5.00   6 Approximate (spacing=3)          3      2    1.666877e-16
- 16  5.00   6 Approximate (spacing=4)          4      2    1.666301e-16
- 16  5.00   6 Approximate (spacing=5)          5      2    2.499205e-16
- 16  5.00   6 Approximate (spacing=6)          6      2    1.666182e-16
- 16  5.00   6 Approximate (spacing=7)          7      2    2.498985e-16
- 16  5.00   6 Approximate (spacing=8)          8      3    1.389050e-16
- 16  5.00   6 Approximate (spacing=9)          9      3    1.666114e-16
- 16  5.00   6 Approximate (spacing=10)        10      3    1.665758e-16
- 16  5.00   6 Approximate (spacing=11)        11      3    8.334299e-17
- 16  5.00   6 Approximate (spacing=12)        12      3    2.221768e-16
- 16  5.00   6 Approximate (spacing=13)        13      3    2.782507e-17
- 16  5.00   6 Approximate (spacing=14)        14      3    1.111104e-16
- 16  5.00   6 Approximate (spacing=15)        15      3    1.944246e-16
- 16  5.00   6 Approximate (spacing=16)        16      3    1.666656e-16
- 16  5.00   8 Independent                      -      1    4.999546e-01
- 16  5.00   8 Checkerboard                     -      2    9.915521e-01
- 16  5.00   8 Recursive separator              -      2    2.221666e-16
- 16  5.00   8 Approximate (spacing=1)          1      1    4.999546e-01
- 16  5.00   8 Approximate (spacing=2)          2      2    1.389016e-16
- 16  5.00   8 Approximate (spacing=3)          3      2    1.666877e-16
- 16  5.00   8 Approximate (spacing=4)          4      2    1.666301e-16
- 16  5.00   8 Approximate (spacing=5)          5      2    2.499205e-16
- 16  5.00   8 Approximate (spacing=6)          6      2    1.666182e-16
- 16  5.00   8 Approximate (spacing=7)          7      2    2.498985e-16
- 16  5.00   8 Approximate (spacing=8)          8      2    2.222378e-16
- 16  5.00   8 Approximate (spacing=9)          9      2    1.111105e-16
- 16  5.00   8 Approximate (spacing=10)        10      3    2.221005e-16
- 16  5.00   8 Approximate (spacing=11)        11      3    1.388626e-16
- 16  5.00   8 Approximate (spacing=12)        12      3    1.666368e-16
- 16  5.00   8 Approximate (spacing=13)        13      3    1.944280e-16
- 16  5.00   8 Approximate (spacing=14)        14      3    2.779795e-17
- 16  5.00   8 Approximate (spacing=15)        15      3    2.222361e-16
- 16  5.00   8 Approximate (spacing=16)        16      3    5.560098e-17
+ 20  0.00   1 Independent                      -      1    0.000000e+00
+ 20  0.00   1 Checkerboard                     -      2    0.000000e+00
+ 20  0.00   1 Recursive separator              -      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=1)          1      1    0.000000e+00
+ 20  0.00   1 Approximate (spacing=2)          2      2    0.000000e+00
+ 20  0.00   1 Approximate (spacing=3)          3      3    0.000000e+00
+ 20  0.00   1 Approximate (spacing=4)          4      3    0.000000e+00
+ 20  0.00   1 Approximate (spacing=5)          5      4    0.000000e+00
+ 20  0.00   1 Approximate (spacing=6)          6      4    0.000000e+00
+ 20  0.00   1 Approximate (spacing=7)          7      4    0.000000e+00
+ 20  0.00   1 Approximate (spacing=8)          8      4    0.000000e+00
+ 20  0.00   1 Approximate (spacing=9)          9      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=10)        10      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=11)        11      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=12)        12      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=13)        13      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=14)        14      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=15)        15      5    0.000000e+00
+ 20  0.00   1 Approximate (spacing=16)        16      5    0.000000e+00
+ 20  0.00   2 Independent                      -      1    0.000000e+00
+ 20  0.00   2 Checkerboard                     -      2    0.000000e+00
+ 20  0.00   2 Recursive separator              -      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=1)          1      1    0.000000e+00
+ 20  0.00   2 Approximate (spacing=2)          2      2    0.000000e+00
+ 20  0.00   2 Approximate (spacing=3)          3      2    0.000000e+00
+ 20  0.00   2 Approximate (spacing=4)          4      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=5)          5      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=6)          6      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=7)          7      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=8)          8      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=9)          9      3    0.000000e+00
+ 20  0.00   2 Approximate (spacing=10)        10      4    0.000000e+00
+ 20  0.00   2 Approximate (spacing=11)        11      4    0.000000e+00
+ 20  0.00   2 Approximate (spacing=12)        12      4    0.000000e+00
+ 20  0.00   2 Approximate (spacing=13)        13      4    0.000000e+00
+ 20  0.00   2 Approximate (spacing=14)        14      4    0.000000e+00
+ 20  0.00   2 Approximate (spacing=15)        15      4    0.000000e+00
+ 20  0.00   2 Approximate (spacing=16)        16      4    0.000000e+00
+ 20  0.00   3 Independent                      -      1    0.000000e+00
+ 20  0.00   3 Checkerboard                     -      2    0.000000e+00
+ 20  0.00   3 Recursive separator              -      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=1)          1      1    0.000000e+00
+ 20  0.00   3 Approximate (spacing=2)          2      2    0.000000e+00
+ 20  0.00   3 Approximate (spacing=3)          3      2    0.000000e+00
+ 20  0.00   3 Approximate (spacing=4)          4      2    0.000000e+00
+ 20  0.00   3 Approximate (spacing=5)          5      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=6)          6      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=7)          7      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=8)          8      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=9)          9      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=10)        10      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=11)        11      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=12)        12      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=13)        13      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=14)        14      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=15)        15      3    0.000000e+00
+ 20  0.00   3 Approximate (spacing=16)        16      3    0.000000e+00
+ 20  0.00   4 Independent                      -      1    0.000000e+00
+ 20  0.00   4 Checkerboard                     -      2    0.000000e+00
+ 20  0.00   4 Recursive separator              -      2    0.000000e+00
+ 20  0.00   4 Approximate (spacing=1)          1      1    0.000000e+00
+ 20  0.00   4 Approximate (spacing=2)          2      2    0.000000e+00
+ 20  0.00   4 Approximate (spacing=3)          3      2    0.000000e+00
+ 20  0.00   4 Approximate (spacing=4)          4      2    0.000000e+00
+ 20  0.00   4 Approximate (spacing=5)          5      2    0.000000e+00
+ 20  0.00   4 Approximate (spacing=6)          6      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=7)          7      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=8)          8      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=9)          9      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=10)        10      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=11)        11      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=12)        12      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=13)        13      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=14)        14      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=15)        15      3    0.000000e+00
+ 20  0.00   4 Approximate (spacing=16)        16      3    0.000000e+00
+ 20  0.00   6 Independent                      -      1    0.000000e+00
+ 20  0.00   6 Checkerboard                     -      2    0.000000e+00
+ 20  0.00   6 Recursive separator              -      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=1)          1      1    0.000000e+00
+ 20  0.00   6 Approximate (spacing=2)          2      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=3)          3      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=4)          4      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=5)          5      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=6)          6      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=7)          7      2    0.000000e+00
+ 20  0.00   6 Approximate (spacing=8)          8      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=9)          9      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=10)        10      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=11)        11      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=12)        12      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=13)        13      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=14)        14      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=15)        15      3    0.000000e+00
+ 20  0.00   6 Approximate (spacing=16)        16      3    0.000000e+00
+ 20  0.00   8 Independent                      -      1    0.000000e+00
+ 20  0.00   8 Checkerboard                     -      2    0.000000e+00
+ 20  0.00   8 Recursive separator              -      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=1)          1      1    0.000000e+00
+ 20  0.00   8 Approximate (spacing=2)          2      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=3)          3      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=4)          4      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=5)          5      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=6)          6      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=7)          7      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=8)          8      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=9)          9      2    0.000000e+00
+ 20  0.00   8 Approximate (spacing=10)        10      3    0.000000e+00
+ 20  0.00   8 Approximate (spacing=11)        11      3    0.000000e+00
+ 20  0.00   8 Approximate (spacing=12)        12      3    0.000000e+00
+ 20  0.00   8 Approximate (spacing=13)        13      3    0.000000e+00
+ 20  0.00   8 Approximate (spacing=14)        14      3    0.000000e+00
+ 20  0.00   8 Approximate (spacing=15)        15      3    0.000000e+00
+ 20  0.00   8 Approximate (spacing=16)        16      3    0.000000e+00
+ 20  0.10   1 Independent                      -      1    1.705014e-01
+ 20  0.10   1 Checkerboard                     -      2    1.222151e-02
+ 20  0.10   1 Recursive separator              -      5    6.730553e-16
+ 20  0.10   1 Approximate (spacing=1)          1      1    1.705014e-01
+ 20  0.10   1 Approximate (spacing=2)          2      2    1.222151e-02
+ 20  0.10   1 Approximate (spacing=3)          3      3    9.281927e-04
+ 20  0.10   1 Approximate (spacing=4)          4      3    7.401258e-05
+ 20  0.10   1 Approximate (spacing=5)          5      4    7.376322e-06
+ 20  0.10   1 Approximate (spacing=6)          6      4    4.901224e-07
+ 20  0.10   1 Approximate (spacing=7)          7      4    4.884949e-08
+ 20  0.10   1 Approximate (spacing=8)          8      4    4.868731e-09
+ 20  0.10   1 Approximate (spacing=9)          9      5    4.852566e-10
+ 20  0.10   1 Approximate (spacing=10)        10      5    4.836465e-11
+ 20  0.10   1 Approximate (spacing=11)        11      5    6.220492e-16
+ 20  0.10   1 Approximate (spacing=12)        12      5    5.717406e-16
+ 20  0.10   1 Approximate (spacing=13)        13      5    4.845164e-16
+ 20  0.10   1 Approximate (spacing=14)        14      5    6.520240e-16
+ 20  0.10   1 Approximate (spacing=15)        15      5    7.439038e-16
+ 20  0.10   1 Approximate (spacing=16)        16      5    7.148464e-16
+ 20  0.10   2 Independent                      -      1    1.210285e-01
+ 20  0.10   2 Checkerboard                     -      2    1.222151e-02
+ 20  0.10   2 Recursive separator              -      3    5.100742e-16
+ 20  0.10   2 Approximate (spacing=1)          1      1    1.210285e-01
+ 20  0.10   2 Approximate (spacing=2)          2      2    7.487039e-03
+ 20  0.10   2 Approximate (spacing=3)          3      2    4.952815e-04
+ 20  0.10   2 Approximate (spacing=4)          4      3    4.934172e-05
+ 20  0.10   2 Approximate (spacing=5)          5      3    4.917548e-06
+ 20  0.10   2 Approximate (spacing=6)          6      3    4.901221e-07
+ 20  0.10   2 Approximate (spacing=7)          7      3    5.100742e-16
+ 20  0.10   2 Approximate (spacing=8)          8      3    5.298544e-16
+ 20  0.10   2 Approximate (spacing=9)          9      3    3.899638e-16
+ 20  0.10   2 Approximate (spacing=10)        10      4    3.148684e-16
+ 20  0.10   2 Approximate (spacing=11)        11      4    6.326395e-16
+ 20  0.10   2 Approximate (spacing=12)        12      4    6.418304e-16
+ 20  0.10   2 Approximate (spacing=13)        13      4    4.410491e-16
+ 20  0.10   2 Approximate (spacing=14)        14      4    4.194218e-16
+ 20  0.10   2 Approximate (spacing=15)        15      4    5.950389e-16
+ 20  0.10   2 Approximate (spacing=16)        16      4    4.967568e-16
+ 20  0.10   3 Independent                      -      1    9.743212e-02
+ 20  0.10   3 Checkerboard                     -      2    1.222151e-02
+ 20  0.10   3 Recursive separator              -      3    5.437799e-16
+ 20  0.10   3 Approximate (spacing=1)          1      1    9.743212e-02
+ 20  0.10   3 Approximate (spacing=2)          2      2    7.450037e-03
+ 20  0.10   3 Approximate (spacing=3)          3      2    4.950364e-04
+ 20  0.10   3 Approximate (spacing=4)          4      2    4.933929e-05
+ 20  0.10   3 Approximate (spacing=5)          5      3    4.917548e-06
+ 20  0.10   3 Approximate (spacing=6)          6      3    4.174617e-16
+ 20  0.10   3 Approximate (spacing=7)          7      3    5.911089e-16
+ 20  0.10   3 Approximate (spacing=8)          8      3    6.695997e-16
+ 20  0.10   3 Approximate (spacing=9)          9      3    4.066022e-16
+ 20  0.10   3 Approximate (spacing=10)        10      3    8.407376e-16
+ 20  0.10   3 Approximate (spacing=11)        11      3    4.277512e-16
+ 20  0.10   3 Approximate (spacing=12)        12      3    3.519959e-16
+ 20  0.10   3 Approximate (spacing=13)        13      3    5.504116e-16
+ 20  0.10   3 Approximate (spacing=14)        14      3    4.899224e-16
+ 20  0.10   3 Approximate (spacing=15)        15      3    5.073306e-16
+ 20  0.10   3 Approximate (spacing=16)        16      3    5.501366e-16
+ 20  0.10   4 Independent                      -      1    7.821012e-02
+ 20  0.10   4 Checkerboard                     -      2    1.222151e-02
+ 20  0.10   4 Recursive separator              -      2    6.513374e-16
+ 20  0.10   4 Approximate (spacing=1)          1      1    7.821012e-02
+ 20  0.10   4 Approximate (spacing=2)          2      2    4.991524e-03
+ 20  0.10   4 Approximate (spacing=3)          3      2    4.950364e-04
+ 20  0.10   4 Approximate (spacing=4)          4      2    4.933929e-05
+ 20  0.10   4 Approximate (spacing=5)          5      2    5.843133e-16
+ 20  0.10   4 Approximate (spacing=6)          6      3    4.421238e-16
+ 20  0.10   4 Approximate (spacing=7)          7      3    5.300279e-16
+ 20  0.10   4 Approximate (spacing=8)          8      3    6.872683e-16
+ 20  0.10   4 Approximate (spacing=9)          9      3    3.921688e-16
+ 20  0.10   4 Approximate (spacing=10)        10      3    6.107339e-16
+ 20  0.10   4 Approximate (spacing=11)        11      3    6.249990e-16
+ 20  0.10   4 Approximate (spacing=12)        12      3    5.067242e-16
+ 20  0.10   4 Approximate (spacing=13)        13      3    4.090385e-16
+ 20  0.10   4 Approximate (spacing=14)        14      3    5.092831e-16
+ 20  0.10   4 Approximate (spacing=15)        15      3    4.623725e-16
+ 20  0.10   4 Approximate (spacing=16)        16      3    4.957607e-16
+ 20  0.10   6 Independent                      -      1    7.450348e-02
+ 20  0.10   6 Checkerboard                     -      2    1.222151e-02
+ 20  0.10   6 Recursive separator              -      2    4.550325e-16
+ 20  0.10   6 Approximate (spacing=1)          1      1    7.450348e-02
+ 20  0.10   6 Approximate (spacing=2)          2      2    4.966855e-03
+ 20  0.10   6 Approximate (spacing=3)          3      2    4.550325e-16
+ 20  0.10   6 Approximate (spacing=4)          4      2    4.965237e-16
+ 20  0.10   6 Approximate (spacing=5)          5      2    5.843133e-16
+ 20  0.10   6 Approximate (spacing=6)          6      2    4.426722e-16
+ 20  0.10   6 Approximate (spacing=7)          7      2    5.734635e-16
+ 20  0.10   6 Approximate (spacing=8)          8      3    1.015811e-15
+ 20  0.10   6 Approximate (spacing=9)          9      3    4.357824e-16
+ 20  0.10   6 Approximate (spacing=10)        10      3    8.943073e-16
+ 20  0.10   6 Approximate (spacing=11)        11      3    5.697593e-16
+ 20  0.10   6 Approximate (spacing=12)        12      3    7.030398e-16
+ 20  0.10   6 Approximate (spacing=13)        13      3    4.231679e-16
+ 20  0.10   6 Approximate (spacing=14)        14      3    6.436108e-16
+ 20  0.10   6 Approximate (spacing=15)        15      3    5.828939e-16
+ 20  0.10   6 Approximate (spacing=16)        16      3    2.846660e-16
+ 20  0.10   8 Independent                      -      1    5.231742e-02
+ 20  0.10   8 Checkerboard                     -      2    1.222151e-02
+ 20  0.10   8 Recursive separator              -      2    3.951842e-16
+ 20  0.10   8 Approximate (spacing=1)          1      1    5.231742e-02
+ 20  0.10   8 Approximate (spacing=2)          2      2    4.966855e-03
+ 20  0.10   8 Approximate (spacing=3)          3      2    4.550325e-16
+ 20  0.10   8 Approximate (spacing=4)          4      2    4.965237e-16
+ 20  0.10   8 Approximate (spacing=5)          5      2    5.843133e-16
+ 20  0.10   8 Approximate (spacing=6)          6      2    4.426722e-16
+ 20  0.10   8 Approximate (spacing=7)          7      2    5.734635e-16
+ 20  0.10   8 Approximate (spacing=8)          8      2    9.218715e-16
+ 20  0.10   8 Approximate (spacing=9)          9      2    5.575066e-16
+ 20  0.10   8 Approximate (spacing=10)        10      3    8.102639e-16
+ 20  0.10   8 Approximate (spacing=11)        11      3    6.316872e-16
+ 20  0.10   8 Approximate (spacing=12)        12      3    8.048082e-16
+ 20  0.10   8 Approximate (spacing=13)        13      3    3.581895e-16
+ 20  0.10   8 Approximate (spacing=14)        14      3    6.570072e-16
+ 20  0.10   8 Approximate (spacing=15)        15      3    5.679037e-16
+ 20  0.10   8 Approximate (spacing=16)        16      3    5.311973e-16
+ 20  0.25   1 Independent                      -      1    4.145105e-01
+ 20  0.25   1 Checkerboard                     -      2    7.345689e-02
+ 20  0.25   1 Recursive separator              -      5    7.607870e-16
+ 20  0.25   1 Approximate (spacing=1)          1      1    4.145105e-01
+ 20  0.25   1 Approximate (spacing=2)          2      2    7.345689e-02
+ 20  0.25   1 Approximate (spacing=3)          3      3    1.377128e-02
+ 20  0.25   1 Approximate (spacing=4)          4      3    2.703507e-03
+ 20  0.25   1 Approximate (spacing=5)          5      4    6.609530e-04
+ 20  0.25   1 Approximate (spacing=6)          6      4    1.079315e-04
+ 20  0.25   1 Approximate (spacing=7)          7      4    2.643158e-05
+ 20  0.25   1 Approximate (spacing=8)          8      4    6.473588e-06
+ 20  0.25   1 Approximate (spacing=9)          9      5    1.585502e-06
+ 20  0.25   1 Approximate (spacing=10)        10      5    3.883191e-07
+ 20  0.25   1 Approximate (spacing=11)        11      5    8.936817e-16
+ 20  0.25   1 Approximate (spacing=12)        12      5    7.897753e-16
+ 20  0.25   1 Approximate (spacing=13)        13      5    7.472825e-16
+ 20  0.25   1 Approximate (spacing=14)        14      5    1.152102e-15
+ 20  0.25   1 Approximate (spacing=15)        15      5    1.118059e-15
+ 20  0.25   1 Approximate (spacing=16)        16      5    4.894588e-16
+ 20  0.25   2 Independent                      -      1    2.854092e-01
+ 20  0.25   2 Checkerboard                     -      2    7.345689e-02
+ 20  0.25   2 Recursive separator              -      3    5.598239e-16
+ 20  0.25   2 Approximate (spacing=1)          1      1    2.854092e-01
+ 20  0.25   2 Approximate (spacing=2)          2      2    4.628181e-02
+ 20  0.25   2 Approximate (spacing=3)          3      2    7.399701e-03
+ 20  0.25   2 Approximate (spacing=4)          4      3    1.802346e-03
+ 20  0.25   2 Approximate (spacing=5)          5      3    4.406354e-04
+ 20  0.25   2 Approximate (spacing=6)          6      3    1.079198e-04
+ 20  0.25   2 Approximate (spacing=7)          7      3    5.598239e-16
+ 20  0.25   2 Approximate (spacing=8)          8      3    6.984268e-16
+ 20  0.25   2 Approximate (spacing=9)          9      3    5.073209e-16
+ 20  0.25   2 Approximate (spacing=10)        10      4    3.387522e-16
+ 20  0.25   2 Approximate (spacing=11)        11      4    1.026070e-15
+ 20  0.25   2 Approximate (spacing=12)        12      4    7.003969e-16
+ 20  0.25   2 Approximate (spacing=13)        13      4    6.080539e-16
+ 20  0.25   2 Approximate (spacing=14)        14      4    6.111589e-16
+ 20  0.25   2 Approximate (spacing=15)        15      4    1.443921e-15
+ 20  0.25   2 Approximate (spacing=16)        16      4    7.360141e-16
+ 20  0.25   3 Independent                      -      1    2.470594e-01
+ 20  0.25   3 Checkerboard                     -      2    7.345689e-02
+ 20  0.25   3 Recursive separator              -      3    1.345626e-15
+ 20  0.25   3 Approximate (spacing=1)          1      1    2.470594e-01
+ 20  0.25   3 Approximate (spacing=2)          2      2    4.493490e-02
+ 20  0.25   3 Approximate (spacing=3)          3      2    7.345741e-03
+ 20  0.25   3 Approximate (spacing=4)          4      2    1.799109e-03
+ 20  0.25   3 Approximate (spacing=5)          5      3    4.406354e-04
+ 20  0.25   3 Approximate (spacing=6)          6      3    6.347795e-16
+ 20  0.25   3 Approximate (spacing=7)          7      3    9.319397e-16
+ 20  0.25   3 Approximate (spacing=8)          8      3    6.690588e-16
+ 20  0.25   3 Approximate (spacing=9)          9      3    5.035085e-16
+ 20  0.25   3 Approximate (spacing=10)        10      3    4.930647e-16
+ 20  0.25   3 Approximate (spacing=11)        11      3    8.194316e-16
+ 20  0.25   3 Approximate (spacing=12)        12      3    4.878640e-16
+ 20  0.25   3 Approximate (spacing=13)        13      3    8.758222e-16
+ 20  0.25   3 Approximate (spacing=14)        14      3    1.163373e-15
+ 20  0.25   3 Approximate (spacing=15)        15      3    1.184972e-15
+ 20  0.25   3 Approximate (spacing=16)        16      3    6.770712e-16
+ 20  0.25   4 Independent                      -      1    2.018359e-01
+ 20  0.25   4 Checkerboard                     -      2    7.345689e-02
+ 20  0.25   4 Recursive separator              -      2    4.563361e-16
+ 20  0.25   4 Approximate (spacing=1)          1      1    2.018359e-01
+ 20  0.25   4 Approximate (spacing=2)          2      2    3.089213e-02
+ 20  0.25   4 Approximate (spacing=3)          3      2    7.345741e-03
+ 20  0.25   4 Approximate (spacing=4)          4      2    1.799109e-03
+ 20  0.25   4 Approximate (spacing=5)          5      2    6.868142e-16
+ 20  0.25   4 Approximate (spacing=6)          6      3    4.788396e-16
+ 20  0.25   4 Approximate (spacing=7)          7      3    8.518715e-16
+ 20  0.25   4 Approximate (spacing=8)          8      3    5.166748e-16
+ 20  0.25   4 Approximate (spacing=9)          9      3    4.628438e-16
+ 20  0.25   4 Approximate (spacing=10)        10      3    3.788362e-16
+ 20  0.25   4 Approximate (spacing=11)        11      3    1.282366e-15
+ 20  0.25   4 Approximate (spacing=12)        12      3    1.178609e-15
+ 20  0.25   4 Approximate (spacing=13)        13      3    8.035741e-16
+ 20  0.25   4 Approximate (spacing=14)        14      3    9.909813e-16
+ 20  0.25   4 Approximate (spacing=15)        15      3    1.034642e-15
+ 20  0.25   4 Approximate (spacing=16)        16      3    6.055562e-16
+ 20  0.25   6 Independent                      -      1    1.800161e-01
+ 20  0.25   6 Checkerboard                     -      2    7.345689e-02
+ 20  0.25   6 Recursive separator              -      2    5.123210e-16
+ 20  0.25   6 Approximate (spacing=1)          1      1    1.800161e-01
+ 20  0.25   6 Approximate (spacing=2)          2      2    2.999258e-02
+ 20  0.25   6 Approximate (spacing=3)          3      2    5.123210e-16
+ 20  0.25   6 Approximate (spacing=4)          4      2    4.086870e-16
+ 20  0.25   6 Approximate (spacing=5)          5      2    6.868142e-16
+ 20  0.25   6 Approximate (spacing=6)          6      2    5.251254e-16
+ 20  0.25   6 Approximate (spacing=7)          7      2    7.456791e-16
+ 20  0.25   6 Approximate (spacing=8)          8      3    5.412447e-16
+ 20  0.25   6 Approximate (spacing=9)          9      3    4.047036e-16
+ 20  0.25   6 Approximate (spacing=10)        10      3    3.486321e-16
+ 20  0.25   6 Approximate (spacing=11)        11      3    1.184256e-15
+ 20  0.25   6 Approximate (spacing=12)        12      3    1.246472e-15
+ 20  0.25   6 Approximate (spacing=13)        13      3    9.033217e-16
+ 20  0.25   6 Approximate (spacing=14)        14      3    7.430569e-16
+ 20  0.25   6 Approximate (spacing=15)        15      3    9.061292e-16
+ 20  0.25   6 Approximate (spacing=16)        16      3    5.971140e-16
+ 20  0.25   8 Independent                      -      1    1.374556e-01
+ 20  0.25   8 Checkerboard                     -      2    7.345689e-02
+ 20  0.25   8 Recursive separator              -      2    4.062666e-16
+ 20  0.25   8 Approximate (spacing=1)          1      1    1.374556e-01
+ 20  0.25   8 Approximate (spacing=2)          2      2    2.999258e-02
+ 20  0.25   8 Approximate (spacing=3)          3      2    5.123210e-16
+ 20  0.25   8 Approximate (spacing=4)          4      2    4.086870e-16
+ 20  0.25   8 Approximate (spacing=5)          5      2    6.868142e-16
+ 20  0.25   8 Approximate (spacing=6)          6      2    5.251254e-16
+ 20  0.25   8 Approximate (spacing=7)          7      2    7.456791e-16
+ 20  0.25   8 Approximate (spacing=8)          8      2    5.811425e-16
+ 20  0.25   8 Approximate (spacing=9)          9      2    4.403830e-16
+ 20  0.25   8 Approximate (spacing=10)        10      3    2.805563e-16
+ 20  0.25   8 Approximate (spacing=11)        11      3    1.067337e-15
+ 20  0.25   8 Approximate (spacing=12)        12      3    9.459031e-16
+ 20  0.25   8 Approximate (spacing=13)        13      3    6.588705e-16
+ 20  0.25   8 Approximate (spacing=14)        14      3    8.189782e-16
+ 20  0.25   8 Approximate (spacing=15)        15      3    1.079485e-15
+ 20  0.25   8 Approximate (spacing=16)        16      3    6.500190e-16
+ 20  0.50   1 Independent                      -      1    7.095851e-01
+ 20  0.50   1 Checkerboard                     -      2    2.474331e-01
+ 20  0.50   1 Recursive separator              -      5    9.742765e-16
+ 20  0.50   1 Approximate (spacing=1)          1      1    7.095851e-01
+ 20  0.50   1 Approximate (spacing=2)          2      2    2.474331e-01
+ 20  0.50   1 Approximate (spacing=3)          3      3    9.191935e-02
+ 20  0.50   1 Approximate (spacing=4)          4      3    3.495882e-02
+ 20  0.50   1 Approximate (spacing=5)          5      4    1.580365e-02
+ 20  0.50   1 Approximate (spacing=6)          6      4    4.893192e-03
+ 20  0.50   1 Approximate (spacing=7)          7      4    2.250270e-03
+ 20  0.50   1 Approximate (spacing=8)          8      4    1.039888e-03
+ 20  0.50   1 Approximate (spacing=9)          9      5    4.805503e-04
+ 20  0.50   1 Approximate (spacing=10)        10      5    2.220705e-04
+ 20  0.50   1 Approximate (spacing=11)        11      5    9.255129e-16
+ 20  0.50   1 Approximate (spacing=12)        12      5    9.549322e-16
+ 20  0.50   1 Approximate (spacing=13)        13      5    6.324619e-16
+ 20  0.50   1 Approximate (spacing=14)        14      5    7.936629e-16
+ 20  0.50   1 Approximate (spacing=15)        15      5    9.393335e-16
+ 20  0.50   1 Approximate (spacing=16)        16      5    5.512096e-16
+ 20  0.50   2 Independent                      -      1    5.432469e-01
+ 20  0.50   2 Checkerboard                     -      2    2.474331e-01
+ 20  0.50   2 Recursive separator              -      3    8.663417e-16
+ 20  0.50   2 Approximate (spacing=1)          1      1    5.432469e-01
+ 20  0.50   2 Approximate (spacing=2)          2      2    1.744412e-01
+ 20  0.50   2 Approximate (spacing=3)          3      2    5.177782e-02
+ 20  0.50   2 Approximate (spacing=4)          4      3    2.332223e-02
+ 20  0.50   2 Approximate (spacing=5)          5      3    1.053733e-02
+ 20  0.50   2 Approximate (spacing=6)          6      3    4.869480e-03
+ 20  0.50   2 Approximate (spacing=7)          7      3    8.663417e-16
+ 20  0.50   2 Approximate (spacing=8)          8      3    8.666328e-16
+ 20  0.50   2 Approximate (spacing=9)          9      3    6.343409e-16
+ 20  0.50   2 Approximate (spacing=10)        10      4    6.783922e-16
+ 20  0.50   2 Approximate (spacing=11)        11      4    7.692103e-16
+ 20  0.50   2 Approximate (spacing=12)        12      4    1.244572e-15
+ 20  0.50   2 Approximate (spacing=13)        13      4    9.916659e-16
+ 20  0.50   2 Approximate (spacing=14)        14      4    9.964489e-16
+ 20  0.50   2 Approximate (spacing=15)        15      4    9.650788e-16
+ 20  0.50   2 Approximate (spacing=16)        16      4    8.575298e-16
+ 20  0.50   3 Independent                      -      1    4.557547e-01
+ 20  0.50   3 Checkerboard                     -      2    2.474331e-01
+ 20  0.50   3 Recursive separator              -      3    7.695413e-16
+ 20  0.50   3 Approximate (spacing=1)          1      1    4.557547e-01
+ 20  0.50   3 Approximate (spacing=2)          2      2    1.577295e-01
+ 20  0.50   3 Approximate (spacing=3)          3      2    4.934308e-02
+ 20  0.50   3 Approximate (spacing=4)          4      2    2.280229e-02
+ 20  0.50   3 Approximate (spacing=5)          5      3    1.053733e-02
+ 20  0.50   3 Approximate (spacing=6)          6      3    1.297139e-15
+ 20  0.50   3 Approximate (spacing=7)          7      3    1.023065e-15
+ 20  0.50   3 Approximate (spacing=8)          8      3    6.200263e-16
+ 20  0.50   3 Approximate (spacing=9)          9      3    7.039883e-16
+ 20  0.50   3 Approximate (spacing=10)        10      3    8.884701e-16
+ 20  0.50   3 Approximate (spacing=11)        11      3    1.083313e-15
+ 20  0.50   3 Approximate (spacing=12)        12      3    1.063053e-15
+ 20  0.50   3 Approximate (spacing=13)        13      3    5.848075e-16
+ 20  0.50   3 Approximate (spacing=14)        14      3    8.726755e-16
+ 20  0.50   3 Approximate (spacing=15)        15      3    7.294615e-16
+ 20  0.50   3 Approximate (spacing=16)        16      3    6.231785e-16
+ 20  0.50   4 Independent                      -      1    3.934476e-01
+ 20  0.50   4 Checkerboard                     -      2    2.474331e-01
+ 20  0.50   4 Recursive separator              -      2    7.323183e-16
+ 20  0.50   4 Approximate (spacing=1)          1      1    3.934476e-01
+ 20  0.50   4 Approximate (spacing=2)          2      2    1.181773e-01
+ 20  0.50   4 Approximate (spacing=3)          3      2    4.934308e-02
+ 20  0.50   4 Approximate (spacing=4)          4      2    2.280229e-02
+ 20  0.50   4 Approximate (spacing=5)          5      2    2.863859e-16
+ 20  0.50   4 Approximate (spacing=6)          6      3    1.117969e-15
+ 20  0.50   4 Approximate (spacing=7)          7      3    8.856791e-16
+ 20  0.50   4 Approximate (spacing=8)          8      3    9.479211e-16
+ 20  0.50   4 Approximate (spacing=9)          9      3    7.721496e-16
+ 20  0.50   4 Approximate (spacing=10)        10      3    8.600224e-16
+ 20  0.50   4 Approximate (spacing=11)        11      3    9.421158e-16
+ 20  0.50   4 Approximate (spacing=12)        12      3    9.962655e-16
+ 20  0.50   4 Approximate (spacing=13)        13      3    5.761870e-16
+ 20  0.50   4 Approximate (spacing=14)        14      3    1.105512e-15
+ 20  0.50   4 Approximate (spacing=15)        15      3    7.664556e-16
+ 20  0.50   4 Approximate (spacing=16)        16      3    7.781792e-16
+ 20  0.50   6 Independent                      -      1    3.219163e-01
+ 20  0.50   6 Checkerboard                     -      2    2.474331e-01
+ 20  0.50   6 Recursive separator              -      2    8.221682e-16
+ 20  0.50   6 Approximate (spacing=1)          1      1    3.219163e-01
+ 20  0.50   6 Approximate (spacing=2)          2      2    1.067761e-01
+ 20  0.50   6 Approximate (spacing=3)          3      2    8.221682e-16
+ 20  0.50   6 Approximate (spacing=4)          4      2    5.929498e-16
+ 20  0.50   6 Approximate (spacing=5)          5      2    2.863859e-16
+ 20  0.50   6 Approximate (spacing=6)          6      2    9.210322e-16
+ 20  0.50   6 Approximate (spacing=7)          7      2    9.267077e-16
+ 20  0.50   6 Approximate (spacing=8)          8      3    7.560308e-16
+ 20  0.50   6 Approximate (spacing=9)          9      3    7.575005e-16
+ 20  0.50   6 Approximate (spacing=10)        10      3    7.954363e-16
+ 20  0.50   6 Approximate (spacing=11)        11      3    9.838160e-16
+ 20  0.50   6 Approximate (spacing=12)        12      3    1.222474e-15
+ 20  0.50   6 Approximate (spacing=13)        13      3    8.154731e-16
+ 20  0.50   6 Approximate (spacing=14)        14      3    1.116992e-15
+ 20  0.50   6 Approximate (spacing=15)        15      3    1.046799e-15
+ 20  0.50   6 Approximate (spacing=16)        16      3    9.558745e-16
+ 20  0.50   8 Independent                      -      1    2.844466e-01
+ 20  0.50   8 Checkerboard                     -      2    2.474331e-01
+ 20  0.50   8 Recursive separator              -      2    7.332311e-16
+ 20  0.50   8 Approximate (spacing=1)          1      1    2.844466e-01
+ 20  0.50   8 Approximate (spacing=2)          2      2    1.067761e-01
+ 20  0.50   8 Approximate (spacing=3)          3      2    8.221682e-16
+ 20  0.50   8 Approximate (spacing=4)          4      2    5.929498e-16
+ 20  0.50   8 Approximate (spacing=5)          5      2    2.863859e-16
+ 20  0.50   8 Approximate (spacing=6)          6      2    9.210322e-16
+ 20  0.50   8 Approximate (spacing=7)          7      2    9.267077e-16
+ 20  0.50   8 Approximate (spacing=8)          8      2    7.253953e-16
+ 20  0.50   8 Approximate (spacing=9)          9      2    5.932601e-16
+ 20  0.50   8 Approximate (spacing=10)        10      3    7.456287e-16
+ 20  0.50   8 Approximate (spacing=11)        11      3    8.260364e-16
+ 20  0.50   8 Approximate (spacing=12)        12      3    1.218268e-15
+ 20  0.50   8 Approximate (spacing=13)        13      3    7.822193e-16
+ 20  0.50   8 Approximate (spacing=14)        14      3    1.314055e-15
+ 20  0.50   8 Approximate (spacing=15)        15      3    1.276477e-15
+ 20  0.50   8 Approximate (spacing=16)        16      3    1.083709e-15
+ 20  0.75   1 Independent                      -      1    8.726302e-01
+ 20  0.75   1 Checkerboard                     -      2    4.796476e-01
+ 20  0.75   1 Recursive separator              -      5    5.706835e-16
+ 20  0.75   1 Approximate (spacing=1)          1      1    8.726302e-01
+ 20  0.75   1 Approximate (spacing=2)          2      2    4.796476e-01
+ 20  0.75   1 Approximate (spacing=3)          3      3    2.299071e-01
+ 20  0.75   1 Approximate (spacing=4)          4      3    1.307801e-01
+ 20  0.75   1 Approximate (spacing=5)          5      4    7.724843e-02
+ 20  0.75   1 Approximate (spacing=6)          6      4    3.390399e-02
+ 20  0.75   1 Approximate (spacing=7)          7      4    2.084967e-02
+ 20  0.75   1 Approximate (spacing=8)          8      4    1.324264e-02
+ 20  0.75   1 Approximate (spacing=9)          9      5    8.411051e-03
+ 20  0.75   1 Approximate (spacing=10)        10      5    5.342270e-03
+ 20  0.75   1 Approximate (spacing=11)        11      5    4.639840e-16
+ 20  0.75   1 Approximate (spacing=12)        12      5    5.628151e-16
+ 20  0.75   1 Approximate (spacing=13)        13      5    5.053470e-16
+ 20  0.75   1 Approximate (spacing=14)        14      5    7.126127e-16
+ 20  0.75   1 Approximate (spacing=15)        15      5    7.821987e-16
+ 20  0.75   1 Approximate (spacing=16)        16      5    5.816843e-16
+ 20  0.75   2 Independent                      -      1    6.936453e-01
+ 20  0.75   2 Checkerboard                     -      2    4.796476e-01
+ 20  0.75   2 Recursive separator              -      3    8.094546e-16
+ 20  0.75   2 Approximate (spacing=1)          1      1    6.936453e-01
+ 20  0.75   2 Approximate (spacing=2)          2      2    3.422101e-01
+ 20  0.75   2 Approximate (spacing=3)          3      2    1.445273e-01
+ 20  0.75   2 Approximate (spacing=4)          4      3    8.799283e-02
+ 20  0.75   2 Approximate (spacing=5)          5      3    5.168303e-02
+ 20  0.75   2 Approximate (spacing=6)          6      3    3.282642e-02
+ 20  0.75   2 Approximate (spacing=7)          7      3    8.094546e-16
+ 20  0.75   2 Approximate (spacing=8)          8      3    4.371511e-16
+ 20  0.75   2 Approximate (spacing=9)          9      3    4.570609e-16
+ 20  0.75   2 Approximate (spacing=10)        10      4    5.376378e-16
+ 20  0.75   2 Approximate (spacing=11)        11      4    4.914608e-16
+ 20  0.75   2 Approximate (spacing=12)        12      4    5.192117e-16
+ 20  0.75   2 Approximate (spacing=13)        13      4    4.361995e-16
+ 20  0.75   2 Approximate (spacing=14)        14      4    5.930372e-16
+ 20  0.75   2 Approximate (spacing=15)        15      4    6.204109e-16
+ 20  0.75   2 Approximate (spacing=16)        16      4    6.592665e-16
+ 20  0.75   3 Independent                      -      1    5.891042e-01
+ 20  0.75   3 Checkerboard                     -      2    4.796476e-01
+ 20  0.75   3 Recursive separator              -      3    5.710449e-16
+ 20  0.75   3 Approximate (spacing=1)          1      1    5.891042e-01
+ 20  0.75   3 Approximate (spacing=2)          2      2    2.861474e-01
+ 20  0.75   3 Approximate (spacing=3)          3      2    1.281141e-01
+ 20  0.75   3 Approximate (spacing=4)          4      2    8.137151e-02
+ 20  0.75   3 Approximate (spacing=5)          5      3    5.168303e-02
+ 20  0.75   3 Approximate (spacing=6)          6      3    4.491133e-16
+ 20  0.75   3 Approximate (spacing=7)          7      3    6.517521e-16
+ 20  0.75   3 Approximate (spacing=8)          8      3    5.544971e-16
+ 20  0.75   3 Approximate (spacing=9)          9      3    6.617299e-16
+ 20  0.75   3 Approximate (spacing=10)        10      3    4.477650e-16
+ 20  0.75   3 Approximate (spacing=11)        11      3    3.293279e-16
+ 20  0.75   3 Approximate (spacing=12)        12      3    5.171338e-16
+ 20  0.75   3 Approximate (spacing=13)        13      3    4.872958e-16
+ 20  0.75   3 Approximate (spacing=14)        14      3    5.427985e-16
+ 20  0.75   3 Approximate (spacing=15)        15      3    5.363730e-16
+ 20  0.75   3 Approximate (spacing=16)        16      3    4.628834e-16
+ 20  0.75   4 Independent                      -      1    5.330707e-01
+ 20  0.75   4 Checkerboard                     -      2    4.796476e-01
+ 20  0.75   4 Recursive separator              -      2    4.101747e-16
+ 20  0.75   4 Approximate (spacing=1)          1      1    5.330707e-01
+ 20  0.75   4 Approximate (spacing=2)          2      2    2.423928e-01
+ 20  0.75   4 Approximate (spacing=3)          3      2    1.281141e-01
+ 20  0.75   4 Approximate (spacing=4)          4      2    8.137151e-02
+ 20  0.75   4 Approximate (spacing=5)          5      2    5.472742e-16
+ 20  0.75   4 Approximate (spacing=6)          6      3    3.735825e-16
+ 20  0.75   4 Approximate (spacing=7)          7      3    6.092509e-16
+ 20  0.75   4 Approximate (spacing=8)          8      3    7.624672e-16
+ 20  0.75   4 Approximate (spacing=9)          9      3    4.526222e-16
+ 20  0.75   4 Approximate (spacing=10)        10      3    5.028685e-16
+ 20  0.75   4 Approximate (spacing=11)        11      3    4.654017e-16
+ 20  0.75   4 Approximate (spacing=12)        12      3    5.433134e-16
+ 20  0.75   4 Approximate (spacing=13)        13      3    4.400458e-16
+ 20  0.75   4 Approximate (spacing=14)        14      3    4.199218e-16
+ 20  0.75   4 Approximate (spacing=15)        15      3    5.941132e-16
+ 20  0.75   4 Approximate (spacing=16)        16      3    5.068372e-16
+ 20  0.75   6 Independent                      -      1    4.214897e-01
+ 20  0.75   6 Checkerboard                     -      2    4.796476e-01
+ 20  0.75   6 Recursive separator              -      2    5.030706e-16
+ 20  0.75   6 Approximate (spacing=1)          1      1    4.214897e-01
+ 20  0.75   6 Approximate (spacing=2)          2      2    2.017071e-01
+ 20  0.75   6 Approximate (spacing=3)          3      2    5.030706e-16
+ 20  0.75   6 Approximate (spacing=4)          4      2    3.935027e-16
+ 20  0.75   6 Approximate (spacing=5)          5      2    5.472742e-16
+ 20  0.75   6 Approximate (spacing=6)          6      2    2.894992e-16
+ 20  0.75   6 Approximate (spacing=7)          7      2    3.947623e-16
+ 20  0.75   6 Approximate (spacing=8)          8      3    8.924923e-16
+ 20  0.75   6 Approximate (spacing=9)          9      3    4.727987e-16
+ 20  0.75   6 Approximate (spacing=10)        10      3    4.377157e-16
+ 20  0.75   6 Approximate (spacing=11)        11      3    3.369052e-16
+ 20  0.75   6 Approximate (spacing=12)        12      3    5.708520e-16
+ 20  0.75   6 Approximate (spacing=13)        13      3    3.245820e-16
+ 20  0.75   6 Approximate (spacing=14)        14      3    4.287792e-16
+ 20  0.75   6 Approximate (spacing=15)        15      3    5.120003e-16
+ 20  0.75   6 Approximate (spacing=16)        16      3    6.394214e-16
+ 20  0.75   8 Independent                      -      1    4.184280e-01
+ 20  0.75   8 Checkerboard                     -      2    4.796476e-01
+ 20  0.75   8 Recursive separator              -      2    4.920412e-16
+ 20  0.75   8 Approximate (spacing=1)          1      1    4.184280e-01
+ 20  0.75   8 Approximate (spacing=2)          2      2    2.017071e-01
+ 20  0.75   8 Approximate (spacing=3)          3      2    5.030706e-16
+ 20  0.75   8 Approximate (spacing=4)          4      2    3.935027e-16
+ 20  0.75   8 Approximate (spacing=5)          5      2    5.472742e-16
+ 20  0.75   8 Approximate (spacing=6)          6      2    2.894992e-16
+ 20  0.75   8 Approximate (spacing=7)          7      2    3.947623e-16
+ 20  0.75   8 Approximate (spacing=8)          8      2    8.422544e-16
+ 20  0.75   8 Approximate (spacing=9)          9      2    6.421697e-16
+ 20  0.75   8 Approximate (spacing=10)        10      3    7.013658e-16
+ 20  0.75   8 Approximate (spacing=11)        11      3    2.911844e-16
+ 20  0.75   8 Approximate (spacing=12)        12      3    7.274614e-16
+ 20  0.75   8 Approximate (spacing=13)        13      3    3.321087e-16
+ 20  0.75   8 Approximate (spacing=14)        14      3    3.930981e-16
+ 20  0.75   8 Approximate (spacing=15)        15      3    5.944909e-16
+ 20  0.75   8 Approximate (spacing=16)        16      3    6.121822e-16
+ 20  1.00   1 Independent                      -      1    9.486027e-01
+ 20  1.00   1 Checkerboard                     -      2    6.466822e-01
+ 20  1.00   1 Recursive separator              -      5    6.472051e-16
+ 20  1.00   1 Approximate (spacing=1)          1      1    9.486027e-01
+ 20  1.00   1 Approximate (spacing=2)          2      2    6.466822e-01
+ 20  1.00   1 Approximate (spacing=3)          3      3    3.840490e-01
+ 20  1.00   1 Approximate (spacing=4)          4      3    2.828450e-01
+ 20  1.00   1 Approximate (spacing=5)          5      4    1.879619e-01
+ 20  1.00   1 Approximate (spacing=6)          6      4    1.070886e-01
+ 20  1.00   1 Approximate (spacing=7)          7      4    7.430794e-02
+ 20  1.00   1 Approximate (spacing=8)          8      4    5.659249e-02
+ 20  1.00   1 Approximate (spacing=9)          9      5    4.310051e-02
+ 20  1.00   1 Approximate (spacing=10)        10      5    3.282510e-02
+ 20  1.00   1 Approximate (spacing=11)        11      5    4.309872e-16
+ 20  1.00   1 Approximate (spacing=12)        12      5    5.209407e-16
+ 20  1.00   1 Approximate (spacing=13)        13      5    8.867154e-16
+ 20  1.00   1 Approximate (spacing=14)        14      5    7.079928e-16
+ 20  1.00   1 Approximate (spacing=15)        15      5    6.198724e-16
+ 20  1.00   1 Approximate (spacing=16)        16      5    4.284660e-16
+ 20  1.00   2 Independent                      -      1    8.282353e-01
+ 20  1.00   2 Checkerboard                     -      2    6.466822e-01
+ 20  1.00   2 Recursive separator              -      3    4.989687e-16
+ 20  1.00   2 Approximate (spacing=1)          1      1    8.282353e-01
+ 20  1.00   2 Approximate (spacing=2)          2      2    4.911737e-01
+ 20  1.00   2 Approximate (spacing=3)          3      2    2.696565e-01
+ 20  1.00   2 Approximate (spacing=4)          4      3    1.965111e-01
+ 20  1.00   2 Approximate (spacing=5)          5      3    1.281115e-01
+ 20  1.00   2 Approximate (spacing=6)          6      3    9.756895e-02
+ 20  1.00   2 Approximate (spacing=7)          7      3    4.989687e-16
+ 20  1.00   2 Approximate (spacing=8)          8      3    5.796055e-16
+ 20  1.00   2 Approximate (spacing=9)          9      3    5.597267e-16
+ 20  1.00   2 Approximate (spacing=10)        10      4    3.465963e-16
+ 20  1.00   2 Approximate (spacing=11)        11      4    7.264592e-16
+ 20  1.00   2 Approximate (spacing=12)        12      4    4.026816e-16
+ 20  1.00   2 Approximate (spacing=13)        13      4    5.118351e-16
+ 20  1.00   2 Approximate (spacing=14)        14      4    4.185433e-16
+ 20  1.00   2 Approximate (spacing=15)        15      4    6.824054e-16
+ 20  1.00   2 Approximate (spacing=16)        16      4    4.933886e-16
+ 20  1.00   3 Independent                      -      1    7.367143e-01
+ 20  1.00   3 Checkerboard                     -      2    6.466822e-01
+ 20  1.00   3 Recursive separator              -      3    6.182069e-16
+ 20  1.00   3 Approximate (spacing=1)          1      1    7.367143e-01
+ 20  1.00   3 Approximate (spacing=2)          2      2    3.862348e-01
+ 20  1.00   3 Approximate (spacing=3)          3      2    2.208721e-01
+ 20  1.00   3 Approximate (spacing=4)          4      2    1.682149e-01
+ 20  1.00   3 Approximate (spacing=5)          5      3    1.281115e-01
+ 20  1.00   3 Approximate (spacing=6)          6      3    3.975832e-16
+ 20  1.00   3 Approximate (spacing=7)          7      3    5.427268e-16
+ 20  1.00   3 Approximate (spacing=8)          8      3    7.765442e-16
+ 20  1.00   3 Approximate (spacing=9)          9      3    5.046830e-16
+ 20  1.00   3 Approximate (spacing=10)        10      3    4.505069e-16
+ 20  1.00   3 Approximate (spacing=11)        11      3    4.259816e-16
+ 20  1.00   3 Approximate (spacing=12)        12      3    5.918712e-16
+ 20  1.00   3 Approximate (spacing=13)        13      3    5.763124e-16
+ 20  1.00   3 Approximate (spacing=14)        14      3    5.544229e-16
+ 20  1.00   3 Approximate (spacing=15)        15      3    6.216690e-16
+ 20  1.00   3 Approximate (spacing=16)        16      3    3.173769e-16
+ 20  1.00   4 Independent                      -      1    6.151886e-01
+ 20  1.00   4 Checkerboard                     -      2    6.466822e-01
+ 20  1.00   4 Recursive separator              -      2    3.733831e-16
+ 20  1.00   4 Approximate (spacing=1)          1      1    6.151886e-01
+ 20  1.00   4 Approximate (spacing=2)          2      2    3.741203e-01
+ 20  1.00   4 Approximate (spacing=3)          3      2    2.208721e-01
+ 20  1.00   4 Approximate (spacing=4)          4      2    1.682149e-01
+ 20  1.00   4 Approximate (spacing=5)          5      2    3.576160e-16
+ 20  1.00   4 Approximate (spacing=6)          6      3    4.374916e-16
+ 20  1.00   4 Approximate (spacing=7)          7      3    4.879422e-16
+ 20  1.00   4 Approximate (spacing=8)          8      3    4.960159e-16
+ 20  1.00   4 Approximate (spacing=9)          9      3    3.371138e-16
+ 20  1.00   4 Approximate (spacing=10)        10      3    4.654386e-16
+ 20  1.00   4 Approximate (spacing=11)        11      3    4.793045e-16
+ 20  1.00   4 Approximate (spacing=12)        12      3    5.444707e-16
+ 20  1.00   4 Approximate (spacing=13)        13      3    8.535876e-16
+ 20  1.00   4 Approximate (spacing=14)        14      3    3.916455e-16
+ 20  1.00   4 Approximate (spacing=15)        15      3    1.008006e-15
+ 20  1.00   4 Approximate (spacing=16)        16      3    4.492530e-16
+ 20  1.00   6 Independent                      -      1    5.583254e-01
+ 20  1.00   6 Checkerboard                     -      2    6.466822e-01
+ 20  1.00   6 Recursive separator              -      2    5.379853e-16
+ 20  1.00   6 Approximate (spacing=1)          1      1    5.583254e-01
+ 20  1.00   6 Approximate (spacing=2)          2      2    2.900128e-01
+ 20  1.00   6 Approximate (spacing=3)          3      2    5.379853e-16
+ 20  1.00   6 Approximate (spacing=4)          4      2    1.968809e-16
+ 20  1.00   6 Approximate (spacing=5)          5      2    3.576160e-16
+ 20  1.00   6 Approximate (spacing=6)          6      2    3.972889e-16
+ 20  1.00   6 Approximate (spacing=7)          7      2    4.192149e-16
+ 20  1.00   6 Approximate (spacing=8)          8      3    4.888001e-16
+ 20  1.00   6 Approximate (spacing=9)          9      3    2.768889e-16
+ 20  1.00   6 Approximate (spacing=10)        10      3    2.450667e-16
+ 20  1.00   6 Approximate (spacing=11)        11      3    7.129772e-16
+ 20  1.00   6 Approximate (spacing=12)        12      3    7.464441e-16
+ 20  1.00   6 Approximate (spacing=13)        13      3    7.572771e-16
+ 20  1.00   6 Approximate (spacing=14)        14      3    5.044045e-16
+ 20  1.00   6 Approximate (spacing=15)        15      3    8.516585e-16
+ 20  1.00   6 Approximate (spacing=16)        16      3    4.514333e-16
+ 20  1.00   8 Independent                      -      1    5.258035e-01
+ 20  1.00   8 Checkerboard                     -      2    6.466822e-01
+ 20  1.00   8 Recursive separator              -      2    3.618889e-16
+ 20  1.00   8 Approximate (spacing=1)          1      1    5.258035e-01
+ 20  1.00   8 Approximate (spacing=2)          2      2    2.900128e-01
+ 20  1.00   8 Approximate (spacing=3)          3      2    5.379853e-16
+ 20  1.00   8 Approximate (spacing=4)          4      2    1.968809e-16
+ 20  1.00   8 Approximate (spacing=5)          5      2    3.576160e-16
+ 20  1.00   8 Approximate (spacing=6)          6      2    3.972889e-16
+ 20  1.00   8 Approximate (spacing=7)          7      2    4.192149e-16
+ 20  1.00   8 Approximate (spacing=8)          8      2    4.122588e-16
+ 20  1.00   8 Approximate (spacing=9)          9      2    3.880271e-16
+ 20  1.00   8 Approximate (spacing=10)        10      3    3.020126e-16
+ 20  1.00   8 Approximate (spacing=11)        11      3    9.145015e-16
+ 20  1.00   8 Approximate (spacing=12)        12      3    6.173218e-16
+ 20  1.00   8 Approximate (spacing=13)        13      3    6.253299e-16
+ 20  1.00   8 Approximate (spacing=14)        14      3    4.310530e-16
+ 20  1.00   8 Approximate (spacing=15)        15      3    5.108229e-16
+ 20  1.00   8 Approximate (spacing=16)        16      3    4.088666e-16
+ 20  1.50   1 Independent                      -      1    9.888010e-01
+ 20  1.50   1 Checkerboard                     -      2    8.692674e-01
+ 20  1.50   1 Recursive separator              -      5    1.260329e-15
+ 20  1.50   1 Approximate (spacing=1)          1      1    9.888010e-01
+ 20  1.50   1 Approximate (spacing=2)          2      2    8.692674e-01
+ 20  1.50   1 Approximate (spacing=3)          3      3    6.846563e-01
+ 20  1.50   1 Approximate (spacing=4)          4      3    5.587194e-01
+ 20  1.50   1 Approximate (spacing=5)          5      4    3.996092e-01
+ 20  1.50   1 Approximate (spacing=6)          6      4    3.505814e-01
+ 20  1.50   1 Approximate (spacing=7)          7      4    2.488903e-01
+ 20  1.50   1 Approximate (spacing=8)          8      4    2.252827e-01
+ 20  1.50   1 Approximate (spacing=9)          9      5    2.039142e-01
+ 20  1.50   1 Approximate (spacing=10)        10      5    1.845726e-01
+ 20  1.50   1 Approximate (spacing=11)        11      5    8.844750e-16
+ 20  1.50   1 Approximate (spacing=12)        12      5    6.548272e-16
+ 20  1.50   1 Approximate (spacing=13)        13      5    1.032463e-15
+ 20  1.50   1 Approximate (spacing=14)        14      5    1.004824e-15
+ 20  1.50   1 Approximate (spacing=15)        15      5    1.737562e-15
+ 20  1.50   1 Approximate (spacing=16)        16      5    8.299772e-16
+ 20  1.50   2 Independent                      -      1    9.156218e-01
+ 20  1.50   2 Checkerboard                     -      2    8.692674e-01
+ 20  1.50   2 Recursive separator              -      3    1.050841e-15
+ 20  1.50   2 Approximate (spacing=1)          1      1    9.156218e-01
+ 20  1.50   2 Approximate (spacing=2)          2      2    6.442187e-01
+ 20  1.50   2 Approximate (spacing=3)          3      2    5.082769e-01
+ 20  1.50   2 Approximate (spacing=4)          4      3    4.482621e-01
+ 20  1.50   2 Approximate (spacing=5)          5      3    3.037866e-01
+ 20  1.50   2 Approximate (spacing=6)          6      3    2.749719e-01
+ 20  1.50   2 Approximate (spacing=7)          7      3    1.050841e-15
+ 20  1.50   2 Approximate (spacing=8)          8      3    6.212092e-16
+ 20  1.50   2 Approximate (spacing=9)          9      3    6.438491e-16
+ 20  1.50   2 Approximate (spacing=10)        10      4    9.881110e-16
+ 20  1.50   2 Approximate (spacing=11)        11      4    6.800217e-16
+ 20  1.50   2 Approximate (spacing=12)        12      4    5.245025e-16
+ 20  1.50   2 Approximate (spacing=13)        13      4    8.582512e-16
+ 20  1.50   2 Approximate (spacing=14)        14      4    9.646349e-16
+ 20  1.50   2 Approximate (spacing=15)        15      4    1.347825e-15
+ 20  1.50   2 Approximate (spacing=16)        16      4    7.235569e-16
+ 20  1.50   3 Independent                      -      1    8.609317e-01
+ 20  1.50   3 Checkerboard                     -      2    8.692674e-01
+ 20  1.50   3 Recursive separator              -      3    1.165204e-15
+ 20  1.50   3 Approximate (spacing=1)          1      1    8.609317e-01
+ 20  1.50   3 Approximate (spacing=2)          2      2    6.276936e-01
+ 20  1.50   3 Approximate (spacing=3)          3      2    3.707910e-01
+ 20  1.50   3 Approximate (spacing=4)          4      2    3.356208e-01
+ 20  1.50   3 Approximate (spacing=5)          5      3    3.037866e-01
+ 20  1.50   3 Approximate (spacing=6)          6      3    9.136937e-16
+ 20  1.50   3 Approximate (spacing=7)          7      3    1.392002e-15
+ 20  1.50   3 Approximate (spacing=8)          8      3    7.392253e-16
+ 20  1.50   3 Approximate (spacing=9)          9      3    7.755499e-16
+ 20  1.50   3 Approximate (spacing=10)        10      3    8.071934e-16
+ 20  1.50   3 Approximate (spacing=11)        11      3    7.540202e-16
+ 20  1.50   3 Approximate (spacing=12)        12      3    7.096451e-16
+ 20  1.50   3 Approximate (spacing=13)        13      3    1.191210e-15
+ 20  1.50   3 Approximate (spacing=14)        14      3    9.812567e-16
+ 20  1.50   3 Approximate (spacing=15)        15      3    1.367854e-15
+ 20  1.50   3 Approximate (spacing=16)        16      3    6.526893e-16
+ 20  1.50   4 Independent                      -      1    7.608702e-01
+ 20  1.50   4 Checkerboard                     -      2    8.692674e-01
+ 20  1.50   4 Recursive separator              -      2    5.913063e-16
+ 20  1.50   4 Approximate (spacing=1)          1      1    7.608702e-01
+ 20  1.50   4 Approximate (spacing=2)          2      2    5.774571e-01
+ 20  1.50   4 Approximate (spacing=3)          3      2    3.707910e-01
+ 20  1.50   4 Approximate (spacing=4)          4      2    3.356208e-01
+ 20  1.50   4 Approximate (spacing=5)          5      2    6.024370e-16
+ 20  1.50   4 Approximate (spacing=6)          6      3    8.149878e-16
+ 20  1.50   4 Approximate (spacing=7)          7      3    1.345030e-15
+ 20  1.50   4 Approximate (spacing=8)          8      3    5.692984e-16
+ 20  1.50   4 Approximate (spacing=9)          9      3    7.968891e-16
+ 20  1.50   4 Approximate (spacing=10)        10      3    8.525418e-16
+ 20  1.50   4 Approximate (spacing=11)        11      3    8.748904e-16
+ 20  1.50   4 Approximate (spacing=12)        12      3    8.042103e-16
+ 20  1.50   4 Approximate (spacing=13)        13      3    1.189904e-15
+ 20  1.50   4 Approximate (spacing=14)        14      3    1.009603e-15
+ 20  1.50   4 Approximate (spacing=15)        15      3    1.262138e-15
+ 20  1.50   4 Approximate (spacing=16)        16      3    7.700561e-16
+ 20  1.50   6 Independent                      -      1    7.393633e-01
+ 20  1.50   6 Checkerboard                     -      2    8.692674e-01
+ 20  1.50   6 Recursive separator              -      2    8.749327e-16
+ 20  1.50   6 Approximate (spacing=1)          1      1    7.393633e-01
+ 20  1.50   6 Approximate (spacing=2)          2      2    4.096467e-01
+ 20  1.50   6 Approximate (spacing=3)          3      2    8.749327e-16
+ 20  1.50   6 Approximate (spacing=4)          4      2    9.839956e-16
+ 20  1.50   6 Approximate (spacing=5)          5      2    6.024370e-16
+ 20  1.50   6 Approximate (spacing=6)          6      2    6.714084e-16
+ 20  1.50   6 Approximate (spacing=7)          7      2    7.678905e-16
+ 20  1.50   6 Approximate (spacing=8)          8      3    1.358188e-16
+ 20  1.50   6 Approximate (spacing=9)          9      3    5.751403e-16
+ 20  1.50   6 Approximate (spacing=10)        10      3    6.820701e-16
+ 20  1.50   6 Approximate (spacing=11)        11      3    8.657035e-16
+ 20  1.50   6 Approximate (spacing=12)        12      3    4.586348e-16
+ 20  1.50   6 Approximate (spacing=13)        13      3    1.329798e-15
+ 20  1.50   6 Approximate (spacing=14)        14      3    1.014280e-15
+ 20  1.50   6 Approximate (spacing=15)        15      3    9.937865e-16
+ 20  1.50   6 Approximate (spacing=16)        16      3    7.558209e-16
+ 20  1.50   8 Independent                      -      1    6.573975e-01
+ 20  1.50   8 Checkerboard                     -      2    8.692674e-01
+ 20  1.50   8 Recursive separator              -      2    9.091712e-16
+ 20  1.50   8 Approximate (spacing=1)          1      1    6.573975e-01
+ 20  1.50   8 Approximate (spacing=2)          2      2    4.096467e-01
+ 20  1.50   8 Approximate (spacing=3)          3      2    8.749327e-16
+ 20  1.50   8 Approximate (spacing=4)          4      2    9.839956e-16
+ 20  1.50   8 Approximate (spacing=5)          5      2    6.024370e-16
+ 20  1.50   8 Approximate (spacing=6)          6      2    6.714084e-16
+ 20  1.50   8 Approximate (spacing=7)          7      2    7.678905e-16
+ 20  1.50   8 Approximate (spacing=8)          8      2    2.016351e-16
+ 20  1.50   8 Approximate (spacing=9)          9      2    3.372391e-16
+ 20  1.50   8 Approximate (spacing=10)        10      3    4.106331e-16
+ 20  1.50   8 Approximate (spacing=11)        11      3    6.323074e-16
+ 20  1.50   8 Approximate (spacing=12)        12      3    3.984987e-16
+ 20  1.50   8 Approximate (spacing=13)        13      3    9.384846e-16
+ 20  1.50   8 Approximate (spacing=14)        14      3    9.612319e-16
+ 20  1.50   8 Approximate (spacing=15)        15      3    9.622501e-16
+ 20  1.50   8 Approximate (spacing=16)        16      3    7.339076e-16
+ 20  2.00   1 Independent                      -      1    9.974608e-01
+ 20  2.00   1 Checkerboard                     -      2    9.423890e-01
+ 20  2.00   1 Recursive separator              -      5    1.949014e-16
+ 20  2.00   1 Approximate (spacing=1)          1      1    9.974608e-01
+ 20  2.00   1 Approximate (spacing=2)          2      2    9.423890e-01
+ 20  2.00   1 Approximate (spacing=3)          3      3    7.881278e-01
+ 20  2.00   1 Approximate (spacing=4)          4      3    6.915057e-01
+ 20  2.00   1 Approximate (spacing=5)          5      4    6.443570e-01
+ 20  2.00   1 Approximate (spacing=6)          6      4    5.624043e-01
+ 20  2.00   1 Approximate (spacing=7)          7      4    3.868978e-01
+ 20  2.00   1 Approximate (spacing=8)          8      4    3.729801e-01
+ 20  2.00   1 Approximate (spacing=9)          9      5    3.595631e-01
+ 20  2.00   1 Approximate (spacing=10)        10      5    3.466288e-01
+ 20  2.00   1 Approximate (spacing=11)        11      5    4.928033e-16
+ 20  2.00   1 Approximate (spacing=12)        12      5    6.280539e-16
+ 20  2.00   1 Approximate (spacing=13)        13      5    3.594309e-16
+ 20  2.00   1 Approximate (spacing=14)        14      5    2.370528e-16
+ 20  2.00   1 Approximate (spacing=15)        15      5    2.674553e-16
+ 20  2.00   1 Approximate (spacing=16)        16      5    3.474041e-16
+ 20  2.00   2 Independent                      -      1    9.697615e-01
+ 20  2.00   2 Checkerboard                     -      2    9.423890e-01
+ 20  2.00   2 Recursive separator              -      3    2.038336e-16
+ 20  2.00   2 Approximate (spacing=1)          1      1    9.697615e-01
+ 20  2.00   2 Approximate (spacing=2)          2      2    8.035109e-01
+ 20  2.00   2 Approximate (spacing=3)          3      2    6.486265e-01
+ 20  2.00   2 Approximate (spacing=4)          4      3    6.183350e-01
+ 20  2.00   2 Approximate (spacing=5)          5      3    4.163104e-01
+ 20  2.00   2 Approximate (spacing=6)          6      3    4.013347e-01
+ 20  2.00   2 Approximate (spacing=7)          7      3    2.038336e-16
+ 20  2.00   2 Approximate (spacing=8)          8      3    3.918797e-16
+ 20  2.00   2 Approximate (spacing=9)          9      3    1.009043e-15
+ 20  2.00   2 Approximate (spacing=10)        10      4    1.920992e-16
+ 20  2.00   2 Approximate (spacing=11)        11      4    3.168467e-16
+ 20  2.00   2 Approximate (spacing=12)        12      4    6.877308e-16
+ 20  2.00   2 Approximate (spacing=13)        13      4    1.862213e-16
+ 20  2.00   2 Approximate (spacing=14)        14      4    5.344173e-16
+ 20  2.00   2 Approximate (spacing=15)        15      4    7.196749e-16
+ 20  2.00   2 Approximate (spacing=16)        16      4    3.854057e-16
+ 20  2.00   3 Independent                      -      1    8.860005e-01
+ 20  2.00   3 Checkerboard                     -      2    9.423890e-01
+ 20  2.00   3 Recursive separator              -      3    8.430347e-16
+ 20  2.00   3 Approximate (spacing=1)          1      1    8.860005e-01
+ 20  2.00   3 Approximate (spacing=2)          2      2    7.727233e-01
+ 20  2.00   3 Approximate (spacing=3)          3      2    4.479591e-01
+ 20  2.00   3 Approximate (spacing=4)          4      2    4.318449e-01
+ 20  2.00   3 Approximate (spacing=5)          5      3    4.163104e-01
+ 20  2.00   3 Approximate (spacing=6)          6      3    6.026471e-16
+ 20  2.00   3 Approximate (spacing=7)          7      3    3.108801e-16
+ 20  2.00   3 Approximate (spacing=8)          8      3    6.479187e-16
+ 20  2.00   3 Approximate (spacing=9)          9      3    7.152116e-16
+ 20  2.00   3 Approximate (spacing=10)        10      3    4.347994e-16
+ 20  2.00   3 Approximate (spacing=11)        11      3    7.239172e-16
+ 20  2.00   3 Approximate (spacing=12)        12      3    9.872518e-16
+ 20  2.00   3 Approximate (spacing=13)        13      3    4.316280e-16
+ 20  2.00   3 Approximate (spacing=14)        14      3    3.717469e-16
+ 20  2.00   3 Approximate (spacing=15)        15      3    5.455370e-16
+ 20  2.00   3 Approximate (spacing=16)        16      3    6.605294e-16
+ 20  2.00   4 Independent                      -      1    8.674730e-01
+ 20  2.00   4 Checkerboard                     -      2    9.423890e-01
+ 20  2.00   4 Recursive separator              -      2    3.949853e-16
+ 20  2.00   4 Approximate (spacing=1)          1      1    8.674730e-01
+ 20  2.00   4 Approximate (spacing=2)          2      2    6.805971e-01
+ 20  2.00   4 Approximate (spacing=3)          3      2    4.479591e-01
+ 20  2.00   4 Approximate (spacing=4)          4      2    4.318449e-01
+ 20  2.00   4 Approximate (spacing=5)          5      2    3.536420e-16
+ 20  2.00   4 Approximate (spacing=6)          6      3    6.284801e-16
+ 20  2.00   4 Approximate (spacing=7)          7      3    3.862791e-16
+ 20  2.00   4 Approximate (spacing=8)          8      3    1.803327e-16
+ 20  2.00   4 Approximate (spacing=9)          9      3    8.223530e-16
+ 20  2.00   4 Approximate (spacing=10)        10      3    1.738847e-16
+ 20  2.00   4 Approximate (spacing=11)        11      3    2.898534e-16
+ 20  2.00   4 Approximate (spacing=12)        12      3    2.903382e-16
+ 20  2.00   4 Approximate (spacing=13)        13      3    4.502928e-16
+ 20  2.00   4 Approximate (spacing=14)        14      3    6.935140e-16
+ 20  2.00   4 Approximate (spacing=15)        15      3    4.996923e-16
+ 20  2.00   4 Approximate (spacing=16)        16      3    2.910918e-16
+ 20  2.00   6 Independent                      -      1    8.220061e-01
+ 20  2.00   6 Checkerboard                     -      2    9.423890e-01
+ 20  2.00   6 Recursive separator              -      2    7.473458e-16
+ 20  2.00   6 Approximate (spacing=1)          1      1    8.220061e-01
+ 20  2.00   6 Approximate (spacing=2)          2      2    4.646746e-01
+ 20  2.00   6 Approximate (spacing=3)          3      2    7.473458e-16
+ 20  2.00   6 Approximate (spacing=4)          4      2    3.000739e-16
+ 20  2.00   6 Approximate (spacing=5)          5      2    3.536420e-16
+ 20  2.00   6 Approximate (spacing=6)          6      2    6.734120e-16
+ 20  2.00   6 Approximate (spacing=7)          7      2    3.946095e-16
+ 20  2.00   6 Approximate (spacing=8)          8      3    4.603106e-16
+ 20  2.00   6 Approximate (spacing=9)          9      3    8.411101e-16
+ 20  2.00   6 Approximate (spacing=10)        10      3    2.413130e-16
+ 20  2.00   6 Approximate (spacing=11)        11      3    3.437663e-16
+ 20  2.00   6 Approximate (spacing=12)        12      3    3.417050e-16
+ 20  2.00   6 Approximate (spacing=13)        13      3    7.007063e-16
+ 20  2.00   6 Approximate (spacing=14)        14      3    1.785184e-16
+ 20  2.00   6 Approximate (spacing=15)        15      3    2.070040e-16
+ 20  2.00   6 Approximate (spacing=16)        16      3    2.220311e-16
+ 20  2.00   8 Independent                      -      1    7.143511e-01
+ 20  2.00   8 Checkerboard                     -      2    9.423890e-01
+ 20  2.00   8 Recursive separator              -      2    4.028707e-16
+ 20  2.00   8 Approximate (spacing=1)          1      1    7.143511e-01
+ 20  2.00   8 Approximate (spacing=2)          2      2    4.646746e-01
+ 20  2.00   8 Approximate (spacing=3)          3      2    7.473458e-16
+ 20  2.00   8 Approximate (spacing=4)          4      2    3.000739e-16
+ 20  2.00   8 Approximate (spacing=5)          5      2    3.536420e-16
+ 20  2.00   8 Approximate (spacing=6)          6      2    6.734120e-16
+ 20  2.00   8 Approximate (spacing=7)          7      2    3.946095e-16
+ 20  2.00   8 Approximate (spacing=8)          8      2    5.183887e-16
+ 20  2.00   8 Approximate (spacing=9)          9      2    6.352926e-16
+ 20  2.00   8 Approximate (spacing=10)        10      3    4.184473e-16
+ 20  2.00   8 Approximate (spacing=11)        11      3    3.934443e-16
+ 20  2.00   8 Approximate (spacing=12)        12      3    2.708347e-16
+ 20  2.00   8 Approximate (spacing=13)        13      3    4.306721e-16
+ 20  2.00   8 Approximate (spacing=14)        14      3    2.479082e-16
+ 20  2.00   8 Approximate (spacing=15)        15      3    3.795795e-16
+ 20  2.00   8 Approximate (spacing=16)        16      3    1.778256e-16
+ 20  3.00   1 Independent                      -      1    9.996215e-01
+ 20  3.00   1 Checkerboard                     -      2    9.796126e-01
+ 20  3.00   1 Recursive separator              -      5    1.190638e-15
+ 20  3.00   1 Approximate (spacing=1)          1      1    9.996215e-01
+ 20  3.00   1 Approximate (spacing=2)          2      2    9.796126e-01
+ 20  3.00   1 Approximate (spacing=3)          3      3    9.323846e-01
+ 20  3.00   1 Approximate (spacing=4)          4      3    8.988050e-01
+ 20  3.00   1 Approximate (spacing=5)          5      4    8.387234e-01
+ 20  3.00   1 Approximate (spacing=6)          6      4    7.209077e-01
+ 20  3.00   1 Approximate (spacing=7)          7      4    4.829463e-01
+ 20  3.00   1 Approximate (spacing=8)          8      4    4.805580e-01
+ 20  3.00   1 Approximate (spacing=9)          9      5    4.781815e-01
+ 20  3.00   1 Approximate (spacing=10)        10      5    4.758168e-01
+ 20  3.00   1 Approximate (spacing=11)        11      5    4.489951e-16
+ 20  3.00   1 Approximate (spacing=12)        12      5    5.003497e-16
+ 20  3.00   1 Approximate (spacing=13)        13      5    1.160082e-15
+ 20  3.00   1 Approximate (spacing=14)        14      5    1.216037e-15
+ 20  3.00   1 Approximate (spacing=15)        15      5    4.904861e-16
+ 20  3.00   1 Approximate (spacing=16)        16      5    9.870482e-16
+ 20  3.00   2 Independent                      -      1    9.802512e-01
+ 20  3.00   2 Checkerboard                     -      2    9.796126e-01
+ 20  3.00   2 Recursive separator              -      3    7.228883e-16
+ 20  3.00   2 Approximate (spacing=1)          1      1    9.802512e-01
+ 20  3.00   2 Approximate (spacing=2)          2      2    9.179135e-01
+ 20  3.00   2 Approximate (spacing=3)          3      2    7.352920e-01
+ 20  3.00   2 Approximate (spacing=4)          4      3    7.304616e-01
+ 20  3.00   2 Approximate (spacing=5)          5      3    4.877586e-01
+ 20  3.00   2 Approximate (spacing=6)          6      3    4.853465e-01
+ 20  3.00   2 Approximate (spacing=7)          7      3    7.228883e-16
+ 20  3.00   2 Approximate (spacing=8)          8      3    9.287261e-16
+ 20  3.00   2 Approximate (spacing=9)          9      3    8.731141e-16
+ 20  3.00   2 Approximate (spacing=10)        10      4    9.720412e-16
+ 20  3.00   2 Approximate (spacing=11)        11      4    1.011156e-15
+ 20  3.00   2 Approximate (spacing=12)        12      4    1.159204e-15
+ 20  3.00   2 Approximate (spacing=13)        13      4    1.043131e-15
+ 20  3.00   2 Approximate (spacing=14)        14      4    6.676532e-16
+ 20  3.00   2 Approximate (spacing=15)        15      4    9.261518e-16
+ 20  3.00   2 Approximate (spacing=16)        16      4    7.295271e-16
+ 20  3.00   3 Independent                      -      1    9.696307e-01
+ 20  3.00   3 Checkerboard                     -      2    9.796126e-01
+ 20  3.00   3 Recursive separator              -      3    8.436146e-16
+ 20  3.00   3 Approximate (spacing=1)          1      1    9.696307e-01
+ 20  3.00   3 Approximate (spacing=2)          2      2    8.602738e-01
+ 20  3.00   3 Approximate (spacing=3)          3      2    4.926188e-01
+ 20  3.00   3 Approximate (spacing=4)          4      2    4.901826e-01
+ 20  3.00   3 Approximate (spacing=5)          5      3    4.877586e-01
+ 20  3.00   3 Approximate (spacing=6)          6      3    9.201201e-16
+ 20  3.00   3 Approximate (spacing=7)          7      3    9.552245e-16
+ 20  3.00   3 Approximate (spacing=8)          8      3    9.605676e-16
+ 20  3.00   3 Approximate (spacing=9)          9      3    1.076057e-15
+ 20  3.00   3 Approximate (spacing=10)        10      3    1.220150e-15
+ 20  3.00   3 Approximate (spacing=11)        11      3    1.046811e-15
+ 20  3.00   3 Approximate (spacing=12)        12      3    7.582875e-16
+ 20  3.00   3 Approximate (spacing=13)        13      3    1.156331e-15
+ 20  3.00   3 Approximate (spacing=14)        14      3    8.097395e-16
+ 20  3.00   3 Approximate (spacing=15)        15      3    8.394737e-16
+ 20  3.00   3 Approximate (spacing=16)        16      3    6.090245e-16
+ 20  3.00   4 Independent                      -      1    9.276461e-01
+ 20  3.00   4 Checkerboard                     -      2    9.796126e-01
+ 20  3.00   4 Recursive separator              -      2    9.267638e-16
+ 20  3.00   4 Approximate (spacing=1)          1      1    9.276461e-01
+ 20  3.00   4 Approximate (spacing=2)          2      2    7.401583e-01
+ 20  3.00   4 Approximate (spacing=3)          3      2    4.926188e-01
+ 20  3.00   4 Approximate (spacing=4)          4      2    4.901826e-01
+ 20  3.00   4 Approximate (spacing=5)          5      2    8.447598e-16
+ 20  3.00   4 Approximate (spacing=6)          6      3    7.781941e-16
+ 20  3.00   4 Approximate (spacing=7)          7      3    8.690131e-16
+ 20  3.00   4 Approximate (spacing=8)          8      3    8.702210e-16
+ 20  3.00   4 Approximate (spacing=9)          9      3    8.967082e-16
+ 20  3.00   4 Approximate (spacing=10)        10      3    1.276200e-15
+ 20  3.00   4 Approximate (spacing=11)        11      3    9.836758e-16
+ 20  3.00   4 Approximate (spacing=12)        12      3    5.281290e-16
+ 20  3.00   4 Approximate (spacing=13)        13      3    9.851185e-16
+ 20  3.00   4 Approximate (spacing=14)        14      3    1.073367e-15
+ 20  3.00   4 Approximate (spacing=15)        15      3    5.523753e-16
+ 20  3.00   4 Approximate (spacing=16)        16      3    6.990158e-16
+ 20  3.00   6 Independent                      -      1    8.676005e-01
+ 20  3.00   6 Checkerboard                     -      2    9.796126e-01
+ 20  3.00   6 Recursive separator              -      2    8.083699e-16
+ 20  3.00   6 Approximate (spacing=1)          1      1    8.676005e-01
+ 20  3.00   6 Approximate (spacing=2)          2      2    4.950670e-01
+ 20  3.00   6 Approximate (spacing=3)          3      2    8.083699e-16
+ 20  3.00   6 Approximate (spacing=4)          4      2    9.888560e-16
+ 20  3.00   6 Approximate (spacing=5)          5      2    8.447598e-16
+ 20  3.00   6 Approximate (spacing=6)          6      2    4.928263e-16
+ 20  3.00   6 Approximate (spacing=7)          7      2    8.442832e-16
+ 20  3.00   6 Approximate (spacing=8)          8      3    7.851250e-16
+ 20  3.00   6 Approximate (spacing=9)          9      3    7.536959e-16
+ 20  3.00   6 Approximate (spacing=10)        10      3    8.125305e-16
+ 20  3.00   6 Approximate (spacing=11)        11      3    7.222013e-16
+ 20  3.00   6 Approximate (spacing=12)        12      3    8.416162e-16
+ 20  3.00   6 Approximate (spacing=13)        13      3    4.903795e-16
+ 20  3.00   6 Approximate (spacing=14)        14      3    1.273325e-15
+ 20  3.00   6 Approximate (spacing=15)        15      3    1.303271e-15
+ 20  3.00   6 Approximate (spacing=16)        16      3    8.121957e-16
+ 20  3.00   8 Independent                      -      1    7.450609e-01
+ 20  3.00   8 Checkerboard                     -      2    9.796126e-01
+ 20  3.00   8 Recursive separator              -      2    6.042521e-16
+ 20  3.00   8 Approximate (spacing=1)          1      1    7.450609e-01
+ 20  3.00   8 Approximate (spacing=2)          2      2    4.950670e-01
+ 20  3.00   8 Approximate (spacing=3)          3      2    8.083699e-16
+ 20  3.00   8 Approximate (spacing=4)          4      2    9.888560e-16
+ 20  3.00   8 Approximate (spacing=5)          5      2    8.447598e-16
+ 20  3.00   8 Approximate (spacing=6)          6      2    4.928263e-16
+ 20  3.00   8 Approximate (spacing=7)          7      2    8.442832e-16
+ 20  3.00   8 Approximate (spacing=8)          8      2    7.844348e-16
+ 20  3.00   8 Approximate (spacing=9)          9      2    7.256907e-16
+ 20  3.00   8 Approximate (spacing=10)        10      3    8.712805e-16
+ 20  3.00   8 Approximate (spacing=11)        11      3    4.906216e-16
+ 20  3.00   8 Approximate (spacing=12)        12      3    1.133733e-15
+ 20  3.00   8 Approximate (spacing=13)        13      3    1.045732e-15
+ 20  3.00   8 Approximate (spacing=14)        14      3    8.395248e-16
+ 20  3.00   8 Approximate (spacing=15)        15      3    1.160392e-15
+ 20  3.00   8 Approximate (spacing=16)        16      3    9.234430e-16
+ 20  5.00   1 Independent                      -      1    9.999615e-01
+ 20  5.00   1 Checkerboard                     -      2    9.972300e-01
+ 20  5.00   1 Recursive separator              -      5    1.999910e-15
+ 20  5.00   1 Approximate (spacing=1)          1      1    9.999615e-01
+ 20  5.00   1 Approximate (spacing=2)          2      2    9.972300e-01
+ 20  5.00   1 Approximate (spacing=3)          3      3    9.680693e-01
+ 20  5.00   1 Approximate (spacing=4)          4      3    9.367739e-01
+ 20  5.00   1 Approximate (spacing=5)          5      4    8.743193e-01
+ 20  5.00   1 Approximate (spacing=6)          6      4    7.494554e-01
+ 20  5.00   1 Approximate (spacing=7)          7      4    4.996823e-01
+ 20  5.00   1 Approximate (spacing=8)          8      4    4.996369e-01
+ 20  5.00   1 Approximate (spacing=9)          9      5    4.995916e-01
+ 20  5.00   1 Approximate (spacing=10)        10      5    4.995462e-01
+ 20  5.00   1 Approximate (spacing=11)        11      5    1.416724e-15
+ 20  5.00   1 Approximate (spacing=12)        12      5    2.111095e-15
+ 20  5.00   1 Approximate (spacing=13)        13      5    1.833386e-15
+ 20  5.00   1 Approximate (spacing=14)        14      5    2.305526e-15
+ 20  5.00   1 Approximate (spacing=15)        15      5    1.750004e-15
+ 20  5.00   1 Approximate (spacing=16)        16      5    1.972232e-15
+ 20  5.00   2 Independent                      -      1    9.976384e-01
+ 20  5.00   2 Checkerboard                     -      2    9.972300e-01
+ 20  5.00   2 Recursive separator              -      3    2.138845e-15
+ 20  5.00   2 Approximate (spacing=1)          1      1    9.976384e-01
+ 20  5.00   2 Approximate (spacing=2)          2      2    9.371369e-01
+ 20  5.00   2 Approximate (spacing=3)          3      2    7.497277e-01
+ 20  5.00   2 Approximate (spacing=4)          4      3    7.496369e-01
+ 20  5.00   2 Approximate (spacing=5)          5      3    4.997731e-01
+ 20  5.00   2 Approximate (spacing=6)          6      3    4.997277e-01
+ 20  5.00   2 Approximate (spacing=7)          7      3    2.138845e-15
+ 20  5.00   2 Approximate (spacing=8)          8      3    1.999928e-15
+ 20  5.00   2 Approximate (spacing=9)          9      3    2.499939e-15
+ 20  5.00   2 Approximate (spacing=10)        10      4    2.472166e-15
+ 20  5.00   2 Approximate (spacing=11)        11      4    1.250101e-15
+ 20  5.00   2 Approximate (spacing=12)        12      4    1.750038e-15
+ 20  5.00   2 Approximate (spacing=13)        13      4    2.138906e-15
+ 20  5.00   2 Approximate (spacing=14)        14      4    2.388705e-15
+ 20  5.00   2 Approximate (spacing=15)        15      4    2.111120e-15
+ 20  5.00   2 Approximate (spacing=16)        16      4    2.194353e-15
+ 20  5.00   3 Independent                      -      1    9.841026e-01
+ 20  5.00   3 Checkerboard                     -      2    9.972300e-01
+ 20  5.00   3 Recursive separator              -      3    2.055497e-15
+ 20  5.00   3 Approximate (spacing=1)          1      1    9.841026e-01
+ 20  5.00   3 Approximate (spacing=2)          2      2    8.747276e-01
+ 20  5.00   3 Approximate (spacing=3)          3      2    4.998638e-01
+ 20  5.00   3 Approximate (spacing=4)          4      2    4.998184e-01
+ 20  5.00   3 Approximate (spacing=5)          5      3    4.997731e-01
+ 20  5.00   3 Approximate (spacing=6)          6      3    2.027637e-15
+ 20  5.00   3 Approximate (spacing=7)          7      3    2.194467e-15
+ 20  5.00   3 Approximate (spacing=8)          8      3    1.944451e-15
+ 20  5.00   3 Approximate (spacing=9)          9      3    2.138986e-15
+ 20  5.00   3 Approximate (spacing=10)        10      3    2.472210e-15
+ 20  5.00   3 Approximate (spacing=11)        11      3    1.611140e-15
+ 20  5.00   3 Approximate (spacing=12)        12      3    2.249971e-15
+ 20  5.00   3 Approximate (spacing=13)        13      3    2.083178e-15
+ 20  5.00   3 Approximate (spacing=14)        14      3    2.194355e-15
+ 20  5.00   3 Approximate (spacing=15)        15      3    1.555541e-15
+ 20  5.00   3 Approximate (spacing=16)        16      3    1.666716e-15
+ 20  5.00   4 Independent                      -      1    9.373184e-01
+ 20  5.00   4 Checkerboard                     -      2    9.972300e-01
+ 20  5.00   4 Recursive separator              -      2    2.027852e-15
+ 20  5.00   4 Approximate (spacing=1)          1      1    9.373184e-01
+ 20  5.00   4 Approximate (spacing=2)          2      2    7.498184e-01
+ 20  5.00   4 Approximate (spacing=3)          3      2    4.998638e-01
+ 20  5.00   4 Approximate (spacing=4)          4      2    4.998184e-01
+ 20  5.00   4 Approximate (spacing=5)          5      2    2.361170e-15
+ 20  5.00   4 Approximate (spacing=6)          6      3    2.111073e-15
+ 20  5.00   4 Approximate (spacing=7)          7      3    2.055504e-15
+ 20  5.00   4 Approximate (spacing=8)          8      3    2.194497e-15
+ 20  5.00   4 Approximate (spacing=9)          9      3    2.361115e-15
+ 20  5.00   4 Approximate (spacing=10)        10      3    2.499942e-15
+ 20  5.00   4 Approximate (spacing=11)        11      3    1.416709e-15
+ 20  5.00   4 Approximate (spacing=12)        12      3    1.805499e-15
+ 20  5.00   4 Approximate (spacing=13)        13      3    2.194260e-15
+ 20  5.00   4 Approximate (spacing=14)        14      3    1.472179e-15
+ 20  5.00   4 Approximate (spacing=15)        15      3    2.083310e-15
+ 20  5.00   4 Approximate (spacing=16)        16      3    2.472185e-15
+ 20  5.00   6 Independent                      -      1    8.748638e-01
+ 20  5.00   6 Checkerboard                     -      2    9.972300e-01
+ 20  5.00   6 Recursive separator              -      2    2.305516e-15
+ 20  5.00   6 Approximate (spacing=1)          1      1    8.748638e-01
+ 20  5.00   6 Approximate (spacing=2)          2      2    4.999092e-01
+ 20  5.00   6 Approximate (spacing=3)          3      2    2.305516e-15
+ 20  5.00   6 Approximate (spacing=4)          4      2    2.055675e-15
+ 20  5.00   6 Approximate (spacing=5)          5      2    2.361170e-15
+ 20  5.00   6 Approximate (spacing=6)          6      2    2.222170e-15
+ 20  5.00   6 Approximate (spacing=7)          7      2    2.444411e-15
+ 20  5.00   6 Approximate (spacing=8)          8      3    2.083300e-15
+ 20  5.00   6 Approximate (spacing=9)          9      3    2.444343e-15
+ 20  5.00   6 Approximate (spacing=10)        10      3    2.694382e-15
+ 20  5.00   6 Approximate (spacing=11)        11      3    1.388924e-15
+ 20  5.00   6 Approximate (spacing=12)        12      3    1.805428e-15
+ 20  5.00   6 Approximate (spacing=13)        13      3    1.777706e-15
+ 20  5.00   6 Approximate (spacing=14)        14      3    2.472261e-15
+ 20  5.00   6 Approximate (spacing=15)        15      3    2.138952e-15
+ 20  5.00   6 Approximate (spacing=16)        16      3    2.139001e-15
+ 20  5.00   8 Independent                      -      1    7.499092e-01
+ 20  5.00   8 Checkerboard                     -      2    9.972300e-01
+ 20  5.00   8 Recursive separator              -      2    1.888977e-15
+ 20  5.00   8 Approximate (spacing=1)          1      1    7.499092e-01
+ 20  5.00   8 Approximate (spacing=2)          2      2    4.999092e-01
+ 20  5.00   8 Approximate (spacing=3)          3      2    2.305516e-15
+ 20  5.00   8 Approximate (spacing=4)          4      2    2.055675e-15
+ 20  5.00   8 Approximate (spacing=5)          5      2    2.361170e-15
+ 20  5.00   8 Approximate (spacing=6)          6      2    2.222170e-15
+ 20  5.00   8 Approximate (spacing=7)          7      2    2.444411e-15
+ 20  5.00   8 Approximate (spacing=8)          8      2    2.083273e-15
+ 20  5.00   8 Approximate (spacing=9)          9      2    2.555499e-15
+ 20  5.00   8 Approximate (spacing=10)        10      3    2.472143e-15
+ 20  5.00   8 Approximate (spacing=11)        11      3    1.666614e-15
+ 20  5.00   8 Approximate (spacing=12)        12      3    2.083222e-15
+ 20  5.00   8 Approximate (spacing=13)        13      3    2.249971e-15
+ 20  5.00   8 Approximate (spacing=14)        14      3    2.194500e-15
+ 20  5.00   8 Approximate (spacing=15)        15      3    2.111151e-15
+ 20  5.00   8 Approximate (spacing=16)        16      3    2.333405e-15
